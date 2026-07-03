@@ -124,6 +124,9 @@ Example: A player casts Bark-Knuckle Boxer, which costs {1}{G} and reads “When
 <BOOKMARK:cr700-15>700.15. The term enter[s] is short for “enter[s] the battlefield.”\\ 
 700.15. “进场”一词是“进入战场”的简写。
 
+<BOOKMARK:cr700-16>700.16. Some cards refer to worthy creatures. A creature is worthy if it’s legendary, isn’t a Villain, and is red and/or white.\\ 
+700.16. 一些牌提及英杰生物。为传奇，非反派，且是红色和／或白色的生物是英杰。
+
 ===== 701. 关键字动作 Keyword Actions =====
 <BOOKMARK:cr701>701. Keyword Actions\\ 
 701. 关键字动作
@@ -743,8 +746,8 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 <BOOKMARK:cr701-44b>701.44b A permanent “explores” after the process described in rule 701.44a is complete, even if some or all of those actions were impossible.\\ 
 701.44b 在完成规则[[cr:7#cr701-44a|701.44a]]所述之流程后，该永久物便已“勘察”，就算该流程之部分或全部动作无法完成也是一样。
 
-<BOOKMARK:cr701-44c>701.44c If a permanent changes zones before an effect causes it to explore, its last known information is used to determine which object explored and who controlled it.\\ 
-701.44c 如果某永久物在有效应令其勘察之前就已改变区域，则利用其最后已知信息来确定进行勘察的物件及其操控者。
+<BOOKMARK:cr701-44c>701.44c If a permanent is no longer on the battlefield as an effect instructs it to explore, its last known information is used to determine which object explored and who controlled it.\\ 
+701.44c 如果某永久物于效应令其勘察时已不在战场上，则利用其最后已知信息来确定勘察的物件及其操控者。
 
 <BOOKMARK:cr701-44d>701.44d If multiple permanents are instructed to explore at the same time, the first player in APNAP order who controls (or, in the case of a permanent no longer on the battlefield, last controlled; see rule 701.44c) one or more of those permanents chooses one of them and it explores. Then this process is repeated for each remaining instruction to explore.\\ 
 701.44d 如果同时令多个永久物勘察，则在操控了一个或数个此类永久物的牌手（如果该永久物已不在战场上，则是最后操控它的牌手；参见规则[[cr:7#cr701-44c|701.44c]]）中，依主动牌手先决定（APNAP）顺序的第一位牌手选择其中一个由其操控的永久物，令该永久物勘察。然后对每个剩余的勘察指示重复此流程。
@@ -803,17 +806,20 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 <BOOKMARK:cr701-50a>701.50a Certain spells and abilities instruct a permanent to connive. To do so, that permanent’s controller draws a card, then discards a card. If a nonland card is discarded this way, that player puts a +1/+1 counter on the conniving permanent.\\ 
 701.50a 某些咒语和异能会令永久物筹谋。其意指，该永久物的操控者抓一张牌，然后弃一张牌。若以此法弃掉了一张非地牌，则该牌手在正筹谋的永久物上放置一个+1/+1指示物。
 
-<BOOKMARK:cr701-50b>701.50b A permanent “connives” after the process described in rule 701.50a is complete, even if some or all of those actions were impossible.\\ 
-701.50b 在规则[[cr:7#cr701-50a|701.50a]]中描述的过程完成后，某永久物便“筹谋”，即使该过程中的一些或全部动作无法完成也是如此。
+<BOOKMARK:cr701-50b>701.50b If a permanent is no longer on the battlefield as an effect instructs it to connive, its last known information is used to determine which object connived and who controlled it.\\ 
+701.50b 如果某永久物于效应令其筹谋时已不在战场上，则利用其最后已知信息来确定筹谋的物件及其操控者。
 
-<BOOKMARK:cr701-50c>701.50c If a permanent changes zones before an effect causes it to connive, its last known information is used to determine which object connived and who controlled it.\\ 
-701.50c 如果一个永久物在有效应令其筹谋之前就已改变区域，则利用其最后已知信息来确定筹谋的物件及其操控者。
+<BOOKMARK:cr701-50c>701.50c If multiple permanents are instructed to connive at the same time, the first player in APNAP order who controls (or, in the case of a permanent no longer on the battlefield, last controlled; see rule 701.50b) one or more of those permanents chooses one of them and it connives. Then this process is repeated for each remaining instruction to connive.\\ 
+701.50c 如果同时令多个永久物筹谋，则在操控了一个或数个此类永久物的牌手（如果该永久物已不在战场上，则是最后操控它的牌手；参见规则[[cr:7#cr701-44c|701.44c]]）中，依主动牌手先决定（APNAP）顺序的第一位牌手选择其中一个由其操控的永久物，令该永久物筹谋。然后对每个剩余的筹谋指示重复此流程。
 
-<BOOKMARK:cr701-50d>701.50d If multiple permanents are instructed to connive at the same time, the first player in APNAP order who controls (or, in the case of a permanent no longer on the battlefield, last controlled; see rule 701.50c) one or more of those permanents chooses one of them and it connives. Then this process is repeated for each remaining instruction to connive.\\ 
-701.50d 如果同时令多个永久物筹谋，则在操控了一个或数个此类永久物的牌手（如果该永久物已不在战场上，则是最后操控它的牌手；参见规则[[cr:7#cr701-44c|701.44c]]）中，依主动牌手先决定（APNAP）顺序的第一位牌手选择其中一个由其操控的永久物，令该永久物筹谋。然后对每个剩余的筹谋指示重复此流程。
+<BOOKMARK:cr701-50d>701.50d Connive N is a variant of connive. To have a permanent connive N, the permanent’s controller draws N cards, discards N cards, then puts a number of +1/+1 counters on the permanent equal to the number of nonland cards discarded this way.\\ 
+701.50d “筹谋N”是筹谋的变化形式。令永久物筹谋N意指，该永久物的操控者抓N张牌，弃N张牌，然后在该永久物上放置若干+1/+1指示物，其数量等同于以此法弃掉的非地牌数量。
 
-<BOOKMARK:cr701-50e>701.50e Connive N is a variant of connive. The permanent’s controller draws N cards, discards N cards, then puts a number of +1/+1 counters on the permanent equal to the number of nonland cards discarded this way.\\ 
-701.50e “筹谋N”是筹谋的变化形式。该永久物的操控者抓N张牌，弃N张牌，然后在该永久物上放置若干+1/+1指示物，其数量等同于以此法弃掉的非地牌数量。
+<BOOKMARK:cr701-50e>701.50e If a permanent would connive 0, no connive event occurs. Abilities that trigger whenever a permanent connives won’t trigger.\\ 
+701.50e 如果某永久物将筹谋0，筹谋事件不会发生。因永久物筹谋而触发的异能不会触发。
+
+<BOOKMARK:cr701-50f>701.50f A permanent “connives” after the process described in either rule 701.50a or 701.50d is complete, even if some or all of those actions were impossible.\\ 
+701.50f 在规则[[cr:7#cr701-50a|701.50a]]或701.50d中描述的过程完成后，某永久物便“筹谋”，即使该过程中的一些或全部动作无法完成也是如此。
 
 <BOOKMARK:cr701-51>701.51. Open an Attraction\\ 
 701.51. 打开景点
@@ -837,7 +843,7 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 701.53. 抚育
 
 <BOOKMARK:cr701-53a>701.53a To incubate N, create an Incubator token that enters the battlefield with N +1/+1 counters on it. See rule 111.10i.\\ 
-701.53a “抚育N”意指，派出一个进战场时上面有N个+1/+1指示物的抚育器衍生物。参见规则[[cr:1#cr111-10i|111.10i]]。
+701.53a 抚育N意指，派出一个进战场时上面有N个+1/+1指示物的抚育器衍生物。参见规则[[cr:1#cr111-10i|111.10i]]。
 
 <BOOKMARK:cr701-53b>701.53b An Incubator token is a double-faced token. Its front face is a colorless Incubator artifact with “{2}: Transform this token.” Its back face is a 0/0 colorless Phyrexian artifact creature named “Phyrexian Token.”\\ 
 701.53b 抚育器衍生物是双面衍生物。其正面是无色抚育器神器，且具有“{2}：转化此衍生物。”其背面是名为非瑞人衍生物的0/0无色非瑞人神器生物。
@@ -1028,6 +1034,12 @@ Example: Spirit Water Revival is a spell that costs {1}{U}{U} and says, in part,
 <BOOKMARK:cr701-68d>701.68d An ability that triggers whenever a player blights triggers after the process described in rule 701.68a is complete, regardless of what events actually occurred.\\ 
 701.68d 每当牌手衰萎时触发的异能会在完成规则[[cr:7#cr701-68a|701.68a]]中所述之流程后触发，无论实际发生的事件为何。
 
+<BOOKMARK:cr701-69>701.69. Heal\\ 
+701.69. 治愈
+
+<BOOKMARK:cr701-69a>701.69a To heal damage already dealt to a permanent, remove that marked damage from that permanent. If an effect states that damage already dealt to a permanent “is healed,” that permanent’s controller removes all marked damage from that permanent.\\ 
+701.69a 治愈永久物已受到的某数量的伤害意指，从该永久物上移除等量已标记的伤害。如果某效应叙述治愈永久物已受到的伤害，该永久物的操控者从该永久物上移除所有已标记的伤害。
+
 ===== 702. 关键字异能 Keyword Abilities =====
 <BOOKMARK:cr702>702. Keyword Abilities\\ 
 702. 关键字异能
@@ -1074,8 +1086,8 @@ Example: Concerted Effort is an enchantment that reads “At the beginning of ea
 <BOOKMARK:cr702-2d>702.2d The deathtouch rules function no matter what zone an object with deathtouch deals damage from.\\ 
 702.2d 无论具有死触之物件是从哪个区域造成的伤害，死触异能规则都会生效。
 
-<BOOKMARK:cr702-2e>702.2e If an object changes zones before an effect causes it to deal damage, its last known information is used to determine whether it had deathtouch.\\ 
-702.2e 如果一个永久物在使其造成伤害的效应生效前便离开战场，则会使用其最后已知信息来判断该永久物是否具有死触异能。
+<BOOKMARK:cr702-2e>702.2e If an object is no longer in the zone it’s expected to be in as an effect causes it to deal damage, its last known information is used to determine whether it had deathtouch.\\ 
+702.2e 如果某个物件于效应使其造成伤害时已不在它原先所在的区域，则会使用其最后已知信息来判断该永久物是否具有死触异能。
 
 <BOOKMARK:cr702-2f>702.2f Multiple instances of deathtouch on the same object are redundant.\\ 
 702.2f 同一个物件上的多个死触异能并无意义。
@@ -1141,7 +1153,7 @@ Example: Concerted Effort is an enchantment that reads “At the beginning of ea
 702.6d 如果同一个武具上有多个佩带异能，其上的任意一个佩带异能都可以被起动。
 
 <BOOKMARK:cr702-6e>702.6e “Equip planeswalker” is a variant of the equip ability. “Equip planeswalker [cost]” means “[Cost]: Attach this permanent to target planeswalker you control as though that planeswalker were a creature. Activate only as a sorcery.”\\ 
-702.6e “佩带鹏洛客”是佩带异能的一种变化形式。“佩带鹏洛客[费用]”意指“[费用]：将目标由你操控的鹏洛客视同生物地来把此永久物贴附于其上。只能于法术时机起动。”
+702.6e “佩带鹏洛客”是佩带异能的变化形式。“佩带鹏洛客[费用]”意指“[费用]：将目标由你操控的鹏洛客视同生物地来把此永久物贴附于其上。只能于法术时机起动。”
 
 <BOOKMARK:cr702-7>702.7. First Strike\\ 
 702.7. 先攻
@@ -1207,7 +1219,7 @@ Example: Concerted Effort is an enchantment that reads “At the beginning of ea
 702.11c 在牌手上的“辟邪”意指“你不能成为你对手所操控的咒语或异能的目标。”
 
 <BOOKMARK:cr702-11d>702.11d “Hexproof from [quality]” is a variant of the hexproof ability. “Hexproof from [quality]” on a permanent means “This permanent can’t be the target of [quality] spells your opponents control or abilities your opponents control from [quality] sources.” A “hexproof from [quality]” ability is a hexproof ability.\\ 
-702.11d “反[特性]辟邪”是辟邪异能的一种变化形式。永久物上的“反[特性]辟邪”意指“此永久物不能成为由对手操控之[特性]咒语，或由对手操控之[特性]来源异能的目标。”“反[特性]辟邪”异能是一种辟邪异能。
+702.11d “反[特性]辟邪”是辟邪异能的变化形式。永久物上的“反[特性]辟邪”意指“此永久物不能成为由对手操控之[特性]咒语，或由对手操控之[特性]来源异能的目标。”“反[特性]辟邪”异能是一种辟邪异能。
 
 <BOOKMARK:cr702-11e>702.11e Any effect that causes an object to lose hexproof will cause an object to lose all “hexproof from [quality]” abilities. Any effect that allows a player to choose a creature with hexproof as a target as though it didn’t have hexproof will allow a player to choose a creature with a “hexproof from [quality]” ability. Any effect that looks for a card with hexproof will find a card with a “hexproof from [quality]” ability.\\ 
 702.11e 使物件失去辟邪异能之效应亦会使其失去所有“反[特性]辟邪”异能。允许牌手将具辟邪异能的生物视同不具辟邪异能地选择为目标之效应亦会允许牌手选择具“反[特性]辟邪”异能的生物为目标。寻找具辟邪异能的牌之效应亦会找到具“反[特性]辟邪”异能的牌。
@@ -1275,8 +1287,8 @@ Example: If a player controls a snow Forest, that player can’t block an attack
 <BOOKMARK:cr702-15b>702.15b Damage dealt by a source with lifelink causes that source’s controller, or its owner if it has no controller, to gain that much life (in addition to any other results that damage causes). See rule 120.3.\\ 
 702.15b 具有系命之来源所造成的伤害，将使此来源的操控者，或如果没有操控者，则为其拥有者获得等量的生命（该伤害造成的其他结果仍照常处理）。参见规则[[cr:1#cr120-3|120.3]]。
 
-<BOOKMARK:cr702-15c>702.15c If an object changes zones before an effect causes it to deal damage, its last known information is used to determine whether it had lifelink.\\ 
-702.15c 如果一个物件在使其造成伤害的效应生效前便改变区域，则会使用其最后已知信息来判断该物件是否具有系命异能。
+<BOOKMARK:cr702-15c>702.15c If an object is no longer in the zone it’s expected to be in as an effect causes it to deal damage, its last known information is used to determine whether it had lifelink.\\ 
+702.15c 如果某个物件于效应使其造成伤害时已不在它原先所在的区域，则会使用其最后已知信息来判断该物件是否具有系命异能。
 
 <BOOKMARK:cr702-15d>702.15d The lifelink rules function no matter what zone an object with lifelink deals damage from.\\ 
 702.15d 无论具有系命之物件是从哪个区域造成的伤害，系命规则都会生效。
@@ -1321,10 +1333,10 @@ Example: A player controls Ajani’s Pridemate, which reads “Whenever you gain
 702.16i “所有[特征、特性或牌手的集合]之反[特征、特性或牌手]保护”是为该集合中的每个特征、特性或牌手单独列出“反[A]保护”，“反[B]保护”等等的缩略形式；此类叙述与分别列出数个保护异能相同。
 
 <BOOKMARK:cr702-16j>702.16j “Protection from everything” is a variant of the protection ability. A permanent or player with protection from everything has protection from each object regardless of that object’s characteristic values. Such a permanent or player can’t be targeted by spells or abilities and can’t be enchanted by Auras. Such a permanent can’t be equipped by Equipment, fortified by Fortifications, or blocked by creatures. All damage that would be dealt to such a permanent or player is prevented.\\ 
-702.16j “反一切保护”是保护的变化形式。具有反一切保护的永久物或牌手具有反每个物件的保护，无论该物件的特征为何。此类永久物或牌手不能成为咒语或异能的目标，且不能被灵气结附。此类永久物不能佩带武具、不能构工工事，且不能被生物阻挡。防止将对此类永久物或牌手造成的所有伤害。
+702.16j “反一切保护”是保护异能的变化形式。具有反一切保护的永久物或牌手具有反每个物件的保护，无论该物件的特征为何。此类永久物或牌手不能成为咒语或异能的目标，且不能被灵气结附。此类永久物不能佩带武具、不能构工工事，且不能被生物阻挡。防止将对此类永久物或牌手造成的所有伤害。
 
 <BOOKMARK:cr702-16k>702.16k “Protection from [a player]” is a variant of the protection ability. A permanent or player with protection from a specific player has protection from each object that player controls and protection from each object that player owns not controlled by another player, regardless of that object’s characteristic values. Such a permanent or player can’t be targeted by spells or abilities the specified player controls and can’t be enchanted by Auras that player controls. Such a permanent can’t be equipped by Equipment that player controls, fortified by Fortifications that player controls, or blocked by creatures that player controls. All damage that would be dealt to such a permanent or player by sources controlled by the specified player or owned by that player but not controlled by another player is prevented.\\ 
-702.16k “反[一位牌手]保护”是保护的变化形式。具有反一位特定牌手保护的永久物或牌手，具有反该牌手操控之每个物件的保护异能，反该牌手拥有但未被另一位牌手操控之每个物件的保护异能，无论该物件的特征为何。此类永久物或牌手不能成为该牌手操控的咒语或异能的目标，且不能被该牌手操控的灵气结附。此类永久物也不能佩带该牌手操控的武具、不能构工该牌手操控的工事、不能被该牌手操控的生物阻挡。防止所有由该牌手操控、或由该牌手拥有但未被另一位牌手操控之来源将对此类永久物或牌手造成的所有伤害。
+702.16k “反[一位牌手]保护”是保护异能的变化形式。具有反一位特定牌手保护的永久物或牌手，具有反该牌手操控之每个物件的保护异能，反该牌手拥有但未被另一位牌手操控之每个物件的保护异能，无论该物件的特征为何。此类永久物或牌手不能成为该牌手操控的咒语或异能的目标，且不能被该牌手操控的灵气结附。此类永久物也不能佩带该牌手操控的武具、不能构工该牌手操控的工事、不能被该牌手操控的生物阻挡。防止所有由该牌手操控、或由该牌手拥有但未被另一位牌手操控之来源将对此类永久物或牌手造成的所有伤害。
 
 <BOOKMARK:cr702-16m>702.16m Multiple instances of protection from the same quality on the same permanent or player are redundant.\\ 
 702.16m 同一永久物或牌手上的多个同特性保护异能并无意义。
@@ -1372,7 +1384,7 @@ Example: A 6/6 green creature with trample is blocked by a 2/2 creature with pro
 例如：一个6/6、具有践踏异能的绿色生物被一个2/2、具反绿保护的生物阻挡。即使对该阻挡者造成的伤害会被保护异能所防止，该攻击生物的操控者也必须将至少2点伤害分配给阻挡者。进行攻击的生物之操控者可以选择将剩余的伤害在阻挡生物与防御牌手之间分配。
 
 <BOOKMARK:cr702-19c>702.19c Trample over planeswalkers is a variant of trample that modifies the rules for assigning combat damage to planeswalkers. The controller of a creature with trample over planeswalkers assigns that creature’s combat damage as described in rule 702.19b, with one exception. If that creature is attacking a planeswalker, after lethal damage is assigned to all blocking creatures and damage at least equal to the loyalty of the planeswalker the creature is attacking is assigned to that planeswalker, further excess damage may be assigned as the attacking creature’s controller chooses among those blocking creatures, that planeswalker, and that planeswalker’s controller. When checking for assigned damage equal to a planeswalker’s loyalty, take into account damage from other creatures that’s being assigned during the same combat damage step, but not any abilities or effects that might change the amount of damage that’s actually dealt.\\ 
-702.19c 践踏鹏洛客是践踏异能的变化，会影响对鹏洛客分配战斗伤害的规则。具践踏鹏洛客异能的生物之操控者依照规则[[cr:7#cr702-19b|702.19b]]所述分配该生物的战斗伤害，但有一点例外。如果该生物正在攻击鹏洛客，在为所有阻挡生物分配战斗伤害、且至少为该生物所攻击的鹏洛客分配等同于该鹏洛客忠诚的伤害之后，仍有过量的伤害可以由该攻击生物之操控者来选择，任意分配给这些阻挡生物、该鹏洛客、或该鹏洛客的操控者。当检查是否分配了等同于鹏洛客忠诚的伤害时，需考虑其他生物在同一战斗伤害步骤正在分配的伤害，但不考虑可能会改变实际造成的伤害数量的异能或效应。
+702.19c 践踏鹏洛客是践踏异能的变化形式，会影响对鹏洛客分配战斗伤害的规则。具践踏鹏洛客异能的生物之操控者依照规则[[cr:7#cr702-19b|702.19b]]所述分配该生物的战斗伤害，但有一点例外。如果该生物正在攻击鹏洛客，在为所有阻挡生物分配战斗伤害、且至少为该生物所攻击的鹏洛客分配等同于该鹏洛客忠诚的伤害之后，仍有过量的伤害可以由该攻击生物之操控者来选择，任意分配给这些阻挡生物、该鹏洛客、或该鹏洛客的操控者。当检查是否分配了等同于鹏洛客忠诚的伤害时，需考虑其他生物在同一战斗伤害步骤正在分配的伤害，但不考虑可能会改变实际造成的伤害数量的异能或效应。
 
 Example: A player controls a planeswalker with three loyalty counters that is being attacked by a 1/1 with no abilities and a 7/7 with trample over planeswalkers. The active player could assign 1 damage from the first attacker and 2 damage from the second to the planeswalker and 5 damage to the defending player from the creature with trample over planeswalkers.\\ 
 例如：牌手操控一个具有三个忠诚指示物的鹏洛客，其正在被一个没有异能的1/1生物和一个具践踏鹏洛客异能的7/7生物攻击。主动牌手可以将来自前者攻击生物的1点伤害和来自后者生物的2点伤害分配给该鹏洛客，并将来自具践踏鹏洛客的生物的5点伤害分配给防御牌手。
@@ -1576,7 +1588,7 @@ Example: You control a phased-out creature. You cast a spell that says “Destro
 702.29d 一些牌具有异能，每当牌手“循环或弃”一张牌时触发。当一张牌被循环时，此类异能只会触发一次。
 
 <BOOKMARK:cr702-29e>702.29e Typecycling is a variant of the cycling ability. “[Type]cycling [cost]” means “[Cost], Discard this card: Search your library for a [type] card, reveal it, and put it into your hand. Then shuffle your library.” This type is usually a subtype (as in “mountaincycling”) but can be any card type, subtype, supertype, or combination thereof (as in “basic landcycling”).\\ 
-702.29e 类别循环是循环异能的变化。“[类别]循环[费用]”意指，“[费用]，弃掉此牌：从你的牌库中搜寻一张[类别]牌，展示该牌，并置于你手上。然后将你的牌库洗牌。”此处的类别通常是一种副类别（如“山脉循环”），但也可以是任意的牌张类别、副类别、超类别，或是前述各类别的组合（如“基本地循环”）。
+702.29e 类别循环是循环异能的变化形式。“[类别]循环[费用]”意指，“[费用]，弃掉此牌：从你的牌库中搜寻一张[类别]牌，展示该牌，并置于你手上。然后将你的牌库洗牌。”此处的类别通常是一种副类别（如“山脉循环”），但也可以是任意的牌张类别、副类别、超类别，或是前述各类别的组合（如“基本地循环”）。
 
 <BOOKMARK:cr702-29f>702.29f Typecycling abilities are cycling abilities, and typecycling costs are cycling costs. Any cards that trigger when a player cycles a card will trigger when a card is discarded to pay an activation cost of a typecycling ability. Any effect that stops players from cycling cards will stop players from activating cards’ typecycling abilities. Any effect that increases or reduces a cycling cost will increase or reduce a typecycling cost. Any effect that looks for a card with cycling will find a card with typecycling.\\ 
 702.29f 类别循环异能是循环异能，且类别循环费用是循环费用。于牌手循环牌时触发其异能的牌，也会在牌手弃掉一张牌以支付类别循环异能之起动费用时触发。阻止牌手循环牌的效应也会阻止牌手起动牌上的类别循环异能。增加或减少循环费用的效应也会增加会减少类别循环费用。寻找具循环异能之牌的效应也可以找到具类别循环异能的牌。
@@ -1618,7 +1630,7 @@ Example: You control a phased-out creature. You cast a spell that says “Destro
 702.33b “增幅[费用1]和/或[费用2]”与分别列出“增幅[费用1]，增幅[费用2]”之意义相同。
 
 <BOOKMARK:cr702-33c>702.33c Multikicker is a variant of the kicker ability. “Multikicker [cost]” means “You may pay an additional [cost] any number of times as you cast this spell.” A multikicker cost is a kicker cost.\\ 
-702.33c 多重增幅是增幅异能的变化。“多重增幅[费用]”意指，“你施放此咒语时，可以任意次数地额外支付[费用]。”多重增幅费用也是增幅费用。
+702.33c 多重增幅是增幅异能的变化形式。“多重增幅[费用]”意指，“你施放此咒语时，可以任意次数地额外支付[费用]。”多重增幅费用也是增幅费用。
 
 <BOOKMARK:cr702-33d>702.33d If a spell’s controller declares the intention to pay any of that spell’s kicker costs, that spell has been “kicked.” If a spell has two kicker costs or has multikicker, it may be kicked multiple times. See rule 601.2b.\\ 
 702.33d 如果一个咒语的操控者宣告将要支付该咒语的任何增幅费用，则该咒语为“已增幅”。参见规则[[cr:6#cr601-2b|601.2b]]。
@@ -1630,7 +1642,7 @@ Example: You control a phased-out creature. You cast a spell that says “Destro
 702.33f 具有多于一种增幅费用的物件，可能也具有对应支付特定增幅费用的异能。这些异能上面的用词会包含“若曾支付其[A]的增幅费用”以及“若曾支付其[B]的增幅费用”，并且A与B分别是牌上所列举的第一个与第二个增幅费用，依此类推。这些异能分别关联到所对应的增幅异能。
 
 <BOOKMARK:cr702-33g>702.33g If part of a spell’s ability has its effect only if that spell was kicked, and that part of the ability includes any targets, the spell’s controller chooses those targets only if that spell was kicked. Otherwise, the spell is cast as if it did not have those targets. See rule 601.2c.\\ 
-702.33g 如果一个异能的一部分只会在该咒语增幅过后才会生效，且该部分的异能包含了目标，则该咒语的操控者只在该咒语已增幅时，才要选择这些目标。否则，便视同该咒语施放时并无此类目标。参见规则[[cr:6#cr601-2c|601.2c]]。
+702.33g 如果某咒语的部分异能只会在该咒语增幅过后才会生效，且该部分的异能包含了目标，则该咒语的操控者只在该咒语已增幅时，才要选择这些目标。否则，便视同该咒语施放时并无此类目标。参见规则[[cr:6#cr601-2c|601.2c]]。
 
 <BOOKMARK:cr702-33h>702.33h Sticker kicker is a keyword ability that represents a kicker ability and an ability that imposes an additional cost if the spell is kicked. “Sticker kicker [cost]” means “Kicker [cost]” and “As an additional cost to cast this spell, if it’s kicked, you get a ticket counter and you may put a sticker on this spell.”\\ 
 702.33h 贴纸增幅是一个关键字异能，代表一个增幅异能和一个在此咒语已增幅时产生额外费用的异能。“贴纸增幅[费用]”意指，“增幅[费用]”及“若此咒语已增幅，则你得到一个门票指示物，然后可以在此咒语上贴一张贴纸，以作为施放此咒语的额外费用。”
@@ -1672,7 +1684,7 @@ Example: You control a phased-out creature. You cast a spell that says “Destro
 702.37a 变身属于静止式异能，会在具有此异能的牌位于你可以使用它的区域时生效，并且只要该牌的牌面朝下，便会持续变身的效应。“变身[费用]”意指，“你可牌面朝下地施放此牌，将其当成2/2生物，并且没有内文叙述、没有名称、没有副类别、没有法术力费用；此时改为支付{3}，而不是支付其法术力费用。”（参见规则[[cr:7#cr708|708]]，“牌面朝下的咒语和永久物”。）
 
 <BOOKMARK:cr702-37b>702.37b Megamorph is a variant of the morph ability. “Megamorph [cost]” means “You may cast this card as a 2/2 face-down creature with no text, no name, no subtypes, and no mana cost by paying {3} rather than paying its mana cost” and “As this permanent is turned face up, put a +1/+1 counter on it if its megamorph cost was paid to turn it face up.” A megamorph cost is a morph cost.\\ 
-702.37b 威力变身是变身异能的变化。“威力变身[费用]”意指，“你可牌面朝下地施放此牌，将其当成2/2生物，并且没有内文叙述、没有名称、没有副类别、没有法术力费用；此时改为支付{3}，而不是支付其法术力费用。”和“于此永久物翻回正面时，如果曾支付其威力变身费用来将它翻回正面，则在其上放置一个+1/+1指示物。”威力变身费用也属于变身费用。
+702.37b 威力变身是变身异能的变化形式。“威力变身[费用]”意指，“你可牌面朝下地施放此牌，将其当成2/2生物，并且没有内文叙述、没有名称、没有副类别、没有法术力费用；此时改为支付{3}，而不是支付其法术力费用。”和“于此永久物翻回正面时，如果曾支付其威力变身费用来将它翻回正面，则在其上放置一个+1/+1指示物。”威力变身费用也属于变身费用。
 
 <BOOKMARK:cr702-37c>702.37c To cast a card using its morph ability, turn it face down and announce that you’re using a morph ability. It becomes a 2/2 face-down creature card with no text, no name, no subtypes, and no mana cost. Any effects or prohibitions that would apply to casting a card with these characteristics (and not the face-up card’s characteristics) are applied to casting this card. These values are the copiable values of that object’s characteristics. (See rule 613, “Interaction of Continuous Effects,” and rule 707, “Copying Objects.”) Put it onto the stack (as a face-down spell with the same characteristics), and pay {3} rather than pay its mana cost. This follows the rules for paying alternative costs. You can use a morph ability to cast a card from any zone from which you could normally cast it. When the spell resolves, it enters the battlefield with the same characteristics the spell had. The morph effect applies to the face-down object wherever it is, and it ends when the permanent is turned face up.\\ 
 702.37c 使用变身异能施放咒语时，将其牌面朝下，并声明你使用变身异能来施放。它成为2/2牌面朝下的生物咒语，并且没有内文叙述、没有名称、没有副类别、没有法术力费用。适用于施放具有这些特征（并非牌面朝上时牌张的特征）的效应或限制会在施放此牌时生效。这些数值为该物件的可复制特征值。（参见规则[[cr:6#cr613|613]]，“持续性效应的互动”和规则[[cr:7#cr707|707]]，“复制物件”。）将它放入堆叠（作为具有前述特征之牌面朝下的咒语），改为支付{3}，而不是支付其法术力费用。这需要依照支付替代性费用之规则行事。你可以使用一张牌的变身异能来从任何你可以正常施放此牌的区域施放它。当此咒语结算时，它具有该咒语前述之特征进入战场。变身的效应持续影响此牌面朝下之物件，直到此永久物被翻回正面为止。
@@ -1828,7 +1840,7 @@ Example: Glacial Ray is a red card with splice onto Arcane that reads, “Glacia
 702.49c 以忍术异能放进战场的生物进场时所攻击的牌手、鹏洛客或战役与被移回其拥有者手上的生物所攻击者相同。
 
 <BOOKMARK:cr702-49d>702.49d Commander ninjutsu is a variant of the ninjutsu ability that also functions while the card with commander ninjutsu is in the command zone. “Commander ninjutsu [cost]” means “[Cost], Reveal this card from your hand or from the command zone, Return an unblocked attacking creature you control to its owner’s hand: Put this card onto the battlefield tapped and attacking.”\\ 
-702.49d 指挥官忍术是忍术异能的变化，当具指挥官忍术的牌位于统帅区中时亦会生效。“指挥官忍术[费用]”意指“[费用]，从你手上或统帅区展示此牌，将一个由你操控且未受阻挡的生物移回其拥有者手上：将此牌从你手上横置放进战场，且正进行攻击。”
+702.49d 指挥官忍术是忍术异能的变化形式，当具指挥官忍术的牌位于统帅区中时亦会生效。“指挥官忍术[费用]”意指“[费用]，从你手上或统帅区展示此牌，将一个由你操控且未受阻挡的生物移回其拥有者手上：将此牌从你手上横置放进战场，且正进行攻击。”
 
 <BOOKMARK:cr702-50>702.50. Epic\\ 
 702.50. 历传
@@ -1881,8 +1893,8 @@ Example: Heartless Summoning says, in part, “Creature spells you cast cost {2}
 <BOOKMARK:cr702-54a>702.54a Bloodthirst is a static ability. “Bloodthirst N” means “If an opponent was dealt damage this turn, this permanent enters with N +1/+1 counters on it.”\\ 
 702.54a 嗜血属于静止式异能。“嗜血N”意指，“如果对手本回合中受过伤害，则此永久物进场时上面有N个+1/+1指示物。”
 
-<BOOKMARK:cr702-54b>702.54b “Bloodthirst X” is a special form of bloodthirst. “Bloodthirst X” means “This permanent enters with X +1/+1 counters on it, where X is the total damage your opponents have been dealt this turn.”\\ 
-702.54b “嗜血X”是嗜血的特殊格式之一。“嗜血X”意指，“此永久物进场时上面有X个+1/+1指示物，X为对手本回合受过的伤害数量。”
+<BOOKMARK:cr702-54b>702.54b “Bloodthirst X” is a variant of the bloodthirst ability. “Bloodthirst X” means “This permanent enters with X +1/+1 counters on it, where X is the total damage your opponents have been dealt this turn.”\\ 
+702.54b “嗜血X”是嗜血异能的变化形式。“嗜血X”意指，“此永久物进场时上面有X个+1/+1指示物，X为对手本回合受过的伤害数量。”
 
 <BOOKMARK:cr702-54c>702.54c If an object has multiple instances of bloodthirst, each applies separately.\\ 
 702.54c 如果一个物件具有多个嗜血异能，则每一个都会分别生效。
@@ -1911,8 +1923,8 @@ Example: Heartless Summoning says, in part, “Creature spells you cast cost {2}
 <BOOKMARK:cr702-57>702.57. Forecast\\ 
 702.57. 预报
 
-<BOOKMARK:cr702-57a>702.57a A forecast ability is a special kind of activated ability that can be activated only from a player’s hand. It’s written “Forecast — [Activated ability].”\\ 
-702.57a 预报是一种特殊的起动式异能，只能从牌手的手上起动。其格式为“预报～[起动式异能]”。
+<BOOKMARK:cr702-57a>702.57a A forecast ability is an activated ability that can be activated only from a player’s hand. It’s written “Forecast — [Activated ability].”\\ 
+702.57a 预报属于起动式异能，只能从牌手的手上起动。其格式为“预报～[起动式异能]”。
 
 <BOOKMARK:cr702-57b>702.57b A forecast ability may be activated only during the upkeep step of the card’s owner and only once each turn. The controller of the forecast ability reveals the card with that ability from their hand as the ability is activated. That player plays with that card revealed in their hand until it leaves the player’s hand or until a step or phase that isn’t an upkeep step begins, whichever comes first.\\ 
 702.57b 预报异能只可以在其操控者的维持步骤中起动，且每回合只能起动一次。于起动预报异能时，其操控者须从手上展示具该异能的牌。该牌手必须以展示此牌的方式进行游戏，直到此牌离开该牌手的手牌或开始了一个不属于维持步骤的步骤或阶段之一发生。
@@ -2133,8 +2145,8 @@ Example: You activate the aura swap ability of an Aura that you control but you 
 <BOOKMARK:cr702-80a>702.80a Wither is a static ability. Damage dealt to a creature by a source with wither isn’t marked on that creature. Rather, it causes that source’s controller to put that many -1/-1 counters on that creature. See rule 120.3.\\ 
 702.80a 干枯属于静止式异能。由具有干枯异能的来源对生物所造成的伤害，并不会标记在该生物上。而是使该来源的操控者将该数量的-1/-1指示物放置在该生物上。参见规则[[cr:1#cr120-3|120.3]]。
 
-<BOOKMARK:cr702-80b>702.80b If an object changes zones before an effect causes it to deal damage, its last known information is used to determine whether it had wither.\\ 
-702.80b 如果一个物件在使其造成伤害的效应生效前便改变区域，则会使用其最后已知信息来判断该物件是否具有干枯异能。
+<BOOKMARK:cr702-80b>702.80b If an object is no longer in the zone it’s expected to be in as an effect causes it to deal damage, its last known information is used to determine whether it had wither.\\ 
+702.80b 如果某个物件于效应使其造成伤害时已不在它原先所在的区域，则会使用其最后已知信息来判断该物件是否具有干枯异能。
 
 <BOOKMARK:cr702-80c>702.80c The wither rules function no matter what zone an object with wither deals damage from.\\ 
 702.80c 无论具有干枯之物件是从哪个区域造成的伤害，干枯异能规则都会生效。
@@ -2241,8 +2253,8 @@ Example: You activate the aura swap ability of an Aura that you control but you 
 <BOOKMARK:cr702-90c>702.90c Damage dealt to a creature by a source with infect isn’t marked on that creature. Rather, it causes that source’s controller to put that many -1/-1 counters on that creature. See rule 120.3.\\ 
 702.90c 具有侵染的来源对生物所造成的伤害，并不会标记在该生物上。而是是该来源之操控者将该数量的-1/-1指示物放置在该生物上。参见规则[[cr:1#cr120-3|120.3]]。
 
-<BOOKMARK:cr702-90d>702.90d If an object changes zones before an effect causes it to deal damage, its last known information is used to determine whether it had infect.\\ 
-702.90d 如果一个物件在使其造成伤害的效应生效前便改变区域，则会使用其最后已知信息来判断该物件是否具有侵染异能。
+<BOOKMARK:cr702-90d>702.90d If an object is no longer in the zone it’s expected to be in as an effect causes it to deal damage, its last known information is used to determine whether it had infect.\\ 
+702.90d 如果某个物件于效应使其造成伤害时已不在它原先所在的区域，则会使用其最后已知信息来判断该物件是否具有侵染异能。
 
 <BOOKMARK:cr702-90e>702.90e The infect rules function no matter what zone an object with infect deals damage from.\\ 
 702.90e 不论具侵染的物件是从哪个区域造成伤害，侵染规则都会生效。
@@ -2440,7 +2452,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 702.106e 如果一位牌手将离开游戏，所有由该牌手操控的牌面朝下的诡局牌必须向所有牌手展示。在每盘游戏结束时，所有牌面朝下的诡局牌必须向所有牌手展示。
 
 <BOOKMARK:cr702-106f>702.106f Double agenda is a variant of the hidden agenda ability. As you put a conspiracy card with double agenda into the command zone, you secretly name two different cards rather than one. You don’t reveal that more than one name was secretly chosen until you reveal the chosen names.\\ 
-702.106f 双重秘案是秘案异能的一种变化。于你将一张具双重秘案异能的诡局牌置入统帅区时，私下决定两个牌名（而不是一个）。你不用展示你所决定的牌名之数量，直到你展示所决定的牌名。
+702.106f 双重秘案是秘案异能的变化形式。于你将一张具双重秘案异能的诡局牌置入统帅区时，私下决定两个牌名（而不是一个）。你不用展示你所决定的牌名之数量，直到你展示所决定的牌名。
 
 <BOOKMARK:cr702-107>702.107. Outlast\\ 
 702.107. 延生
@@ -2583,11 +2595,14 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 <BOOKMARK:cr702-122b>702.122b A creature “crews a Vehicle” when it’s tapped to pay the cost to activate a Vehicle’s crew ability.\\ 
 702.122b 当某个生物被横置来支付起动某载具之搭载异能的费用时，该生物便“搭载载具”。
 
-<BOOKMARK:cr702-122c>702.122c If an effect states that a creature “can’t crew Vehicles,” that creature can’t be tapped to pay the crew cost of a Vehicle.\\ 
-702.122c 如果某个效应注明某个生物“不能搭载载具”，则该生物不能横置来支付载具搭载异能的费用。
+<BOOKMARK:cr702-122c>702.122c A Vehicle is “crewed by” a creature if that creature was tapped to pay the cost to activate that Vehicle’s crew ability.\\ 
+702.122c 如果横置某个生物来支付起动某载具之搭载异能的费用，则该载具“由”该生物“搭载”。
 
-<BOOKMARK:cr702-122d>702.122d Some Vehicles have abilities that trigger when they become crewed. “Whenever [this Vehicle] becomes crewed” means “Whenever a crew ability of [this Vehicle] resolves.” If that ability has an intervening “if” clause that refers to information about the creatures that crewed it, it means only creatures that were tapped to pay the cost of the crew ability that caused it to trigger.\\ 
-702.122d 一些载具具有当其成为已搭载时触发的异能。“每当[此载具]成为已搭载”意指“每当[此载具]的一个搭载异能结算时。”如果该异能具有以“若”开头的子句，且该子句提及关于搭载该载具之生物的信息，则其仅提及使该触发式异能触发的该次搭载异能起动时，横置以支付费用的生物。
+<BOOKMARK:cr702-122d>702.122d If an effect states that a creature “can’t crew Vehicles,” that creature can’t be tapped to pay the crew cost of a Vehicle.\\ 
+702.122d 如果某个效应注明某个生物“不能搭载载具”，则该生物不能横置来支付载具搭载异能的费用。
+
+<BOOKMARK:cr702-122e>702.122e Some Vehicles have abilities that trigger when they become crewed. “Whenever [this Vehicle] becomes crewed” means “Whenever a crew ability of [this Vehicle] resolves.” If that ability has an intervening “if” clause that refers to information about the creatures that crewed it, it means only creatures that were tapped to pay the cost of the crew ability that caused it to trigger.\\ 
+702.122e 一些载具具有当其成为已搭载时触发的异能。“每当[此载具]成为已搭载”意指“每当[此载具]的一个搭载异能结算时。”如果该异能具有以“若”开头的子句，且该子句提及关于搭载该载具之生物的信息，则其仅提及使该触发式异能触发的该次搭载异能起动时，横置以支付费用的生物。
 
 <BOOKMARK:cr702-123>702.123. Fabricate\\ 
 702.123. 装配
@@ -2719,7 +2734,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 702.133. 再起
 
 <BOOKMARK:cr702-133a>702.133a Jump-start appears on some instants and sorceries. It represents two static abilities: one that functions while the card is in a player’s graveyard and another that functions while the card is on the stack. “Jump-start” means “You may cast this card from your graveyard if the resulting spell is an instant or sorcery spell by discarding a card as an additional cost to cast it” and “If this spell was cast using its jump-start ability, exile this card instead of putting it anywhere else any time it would leave the stack.” Casting a spell using its jump-start ability follows the rules for paying additional costs in rules 601.2b and 601.2f–h.\\ 
-702.133a 再起会在某些瞬间与法术上出现。它代表两个静止式异能：一个会于此牌在某牌手的坟墓场中时生效，另一个则于此牌在堆叠中时生效。“再起”意指“如果所成为的咒语是瞬间或法术咒语，你可以从你的坟墓场施放此牌，但必须弃一张牌，以作为施放它的额外费用”以及“若是以再起方式施放此咒语，则于此牌将于任何时机下离开堆叠时，改为将它放逐，而非置入其他任何区域。”以再起异能施放咒语时，需依照规则[[cr:6#cr601-2b|601.2b]]与规则[[cr:6#cr601-2f|601.2f-h]]之规范来支付额外费用。
+702.133a 再起会在某些瞬间与法术上出现。它代表两个静止式异能：一个会于此牌在某牌手的坟墓场中时生效，另一个则于此牌在堆叠中时生效。“再起”意指“如果所成为的咒语是瞬间或法术咒语，你可以从你的坟墓场施放此牌，但必须弃一张牌，以作为施放它的额外费用”以及“若是以再起方式施放此咒语，则于此牌将于任何时机下离开堆叠时，改为将它放逐，而非置入其他任何区域。”以再起异能施放咒语时，需依照规则[[cr:6#cr601-2b|601.2b]]与规则[[cr:6#cr601-2f|601.2f-h]]之规定来支付额外费用。
 
 <BOOKMARK:cr702-134>702.134. Mentor\\ 
 702.134. 训导
@@ -2817,8 +2832,8 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 <BOOKMARK:cr702-142>702.142. Boast\\ 
 702.142. 炫威
 
-<BOOKMARK:cr702-142a>702.142a A boast ability is a special kind of activated ability. “Boast — [Cost]: [Effect]” means “[Cost]: [Effect]. Activate only if this creature attacked this turn and only once each turn.”\\ 
-702.142a 炫威异能属于一类特殊的起动式异能。“炫威～[费用]：[效应]”意指，“[费用]：[效应]。只能于此生物攻击过的回合中起动，且每回合只能起动一次。”
+<BOOKMARK:cr702-142a>702.142a Boast is a keyword that adds additional rules to the activated ability that follows it. “Boast — [Cost]: [Effect]” means “[Cost]: [Effect]. Activate only if this creature attacked this turn and only once each turn.”\\ 
+702.142a 炫威是一个关键字，会为其后的起动式异能增添额外规则。“炫威～[费用]：[效应]”意指，“[费用]：[效应]。只能于此生物攻击过的回合中起动，且每回合只能起动一次。”
 
 <BOOKMARK:cr702-142b>702.142b Effects may refer to boast abilities. If an effect refers to a creature boasting, it means its boast ability being activated.\\ 
 702.142b 效应可能会提及炫威异能。如果一个效应提及某生物炫威，其意指起动该生物的炫威异能。
@@ -2938,7 +2953,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 702.153. 催命
 
 <BOOKMARK:cr702-153a>702.153a Casualty is a keyword that represents two abilities. The first is a static ability that functions while the spell with casualty is on the stack. The second is a triggered ability that functions while the spell with casualty is on the stack. Casualty N means “As an additional cost to cast this spell, you may sacrifice a creature with power N or greater,” and “When you cast this spell, if a casualty cost was paid for it, copy it. If the spell has any targets, you may choose new targets for the copy.” Paying a spell’s casualty cost follows the rules for paying additional costs in rules 601.2b and 601.2f–h.\\ 
-702.153a 催命此关键字代表两个异能。第一个异能是当具催命异能的咒语在堆叠上时生效的静止式异能。第二个异能是当具催命异能的咒语在堆叠上时生效的触发式异能。“催命N”意指“你可以牺牲一个力量等于或大于N的生物，以作为施放此咒语的额外费用。”以及“当你施放此咒语时，若支付过其催命费用，则将其复制。如果该咒语具有目标，则你可以为该复制品选择新的目标。”支付咒语的催命费用时，需依照规则[[cr:6#cr601-2b|601.2b]]与[[cr:6#cr601-2f|601.2f-h]]之规范来支付额外费用。
+702.153a 催命此关键字代表两个异能。第一个异能是当具催命异能的咒语在堆叠上时生效的静止式异能。第二个异能是当具催命异能的咒语在堆叠上时生效的触发式异能。“催命N”意指“你可以牺牲一个力量等于或大于N的生物，以作为施放此咒语的额外费用。”以及“当你施放此咒语时，若支付过其催命费用，则将其复制。如果该咒语具有目标，则你可以为该复制品选择新的目标。”支付咒语的催命费用时，需依照规则[[cr:6#cr601-2b|601.2b]]与[[cr:6#cr601-2f|601.2f-h]]之规定来支付额外费用。
 
 <BOOKMARK:cr702-153b>702.153b If a spell has multiple instances of casualty, each is paid separately and triggers based on the payments made for it, not any other instance of casualty.\\ 
 702.153b 如果一个咒语具有多个催命异能，则每一个催命异能的额外费用须分别支付，且仅根据该异能的费用是否被支付而触发，而非根据该咒语上其他催命异能的费用是否被支付。
@@ -2992,7 +3007,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 702.158a 一张牌（Space Beleren）具有太空塑师异能。此关键字异能令生物得到星区称号。
 
 <BOOKMARK:cr702-158b>702.158b A sector designation is a designation a permanent can have. The sector designations are alpha sector, beta sector, and gamma sector. Only permanents can have a sector designation. Once a permanent gets a sector designation, it keeps it until no player controls a permanent with space sculptor or an ability whose source has space sculptor. A sector designation is not part of the permanent’s copiable values.\\ 
-702.158b 星区称号是永久物能够具有的称号。星区称号有三种：阿尔法星区、贝塔星区、伽马星区。只有永久物能够具有星区称号。一旦永久物得到星区称号，其就会一直具有此称号，直到没有牌手操控具有太空塑师异能的永久物或来源具有太空塑师异能的异能为止。
+702.158b 星区称号是永久物能够具有的称号。星区称号有三种：阿尔法星区、贝塔星区、伽马星区。只有永久物能够具有星区称号。一旦永久物得到星区称号，其就会一直具有此称号，直到没有牌手操控具有太空塑师异能的永久物或其来源具有太空塑师异能的异能为止。星区称号不是永久物可复制特征值的一部分。
 
 <BOOKMARK:cr702-158c>702.158c Any time a permanent with space sculptor and any creatures without a sector designation are on the battlefield at the same time, each player who controls one or more of those creatures and doesn’t control a permanent with space sculptor chooses a sector designation for each of those creatures they control. Then, each other player who controls one or more of those creatures chooses a sector designation for each of those creatures they control. This is a state-based action (see rule 704.5u).\\ 
 702.158c 具有太空塑师异能的永久物与不具星区称号的生物同时在战场上时，每位未操控具有太空塑师异能之永久物，且操控不具星区称号之生物的牌手为其操控的每个此类生物各选择一个星区称号。然后，每位操控此类生物的其他牌手为其操控的每个此类生物各选择一个星区称号。此为状态动作（参见规则[[cr:7#cr704-5u|704.5u]]）。
@@ -3070,7 +3085,7 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
 702.166. 加码
 
 <BOOKMARK:cr702-166a>702.166a Bargain is a static ability that functions while the spell with bargain is on the stack. “Bargain” means “As an additional cost to cast this spell, you may sacrifice an artifact, enchantment, or token.” Paying a spell’s bargain cost follows the rules for paying additional costs in rules 601.2b and 601.2f–h.\\ 
-702.166a 加码属于静止式异能，当具加码异能的咒语在堆叠中时生效。“加码”意指“你可以牺牲一个神器，结界或衍生物，以作为施放此咒语的额外费用。”以加码异能施放咒语时，需依照规则[[cr:6#cr601-2b|601.2b]]与规则[[cr:6#cr601-2f|601.2f-h]]之规范来支付额外费用。
+702.166a 加码属于静止式异能，当具加码异能的咒语在堆叠中时生效。“加码”意指“你可以牺牲一个神器，结界或衍生物，以作为施放此咒语的额外费用。”以加码异能施放咒语时，需依照规则[[cr:6#cr601-2b|601.2b]]与规则[[cr:6#cr601-2f|601.2f-h]]之规定来支付额外费用。
 
 <BOOKMARK:cr702-166b>702.166b If a spell’s controller declares the intention to pay that spell’s bargain cost, that spell has been “bargained.” See rule 601.2b.\\ 
 702.166b 如果一个咒语的操控者宣告将要支付该咒语的加码费用，则该咒语为“已加码”。参见规则[[cr:6#cr601-2b|601.2b]]。
@@ -3079,7 +3094,7 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
 702.166c 具有加码的物件具有额外的异能，说明了它已加码时会发生什么。这些异能会关联到此物件上印的加码异能：它们只指这些特定的加码异能。参见规则[[cr:6#cr607|607]]，“关联异能”。
 
 <BOOKMARK:cr702-166d>702.166d If part of a spell’s ability has its effect only if that spell was bargained and that part of the ability includes any targets, the spell’s controller chooses those targets only if that spell was bargained. Otherwise, the spell is cast as if it did not have those targets. See rule 601.2c.\\ 
-702.166d 如果一个异能的一部分只会在该咒语已加码时才会生效，且该部分的异能包含了目标，则该咒语的操控者只在该咒语已加码时，才要选择这些目标。否则，便视同该咒语施放时并无此类目标。参见规则[[cr:6#cr601-2c|601.2c]]。
+702.166d 如果某咒语的部分异能只会在该咒语已加码时才会生效，且该部分的异能包含了目标，则该咒语的操控者只在该咒语已加码时，才要选择这些目标。否则，便视同该咒语施放时并无此类目标。参见规则[[cr:6#cr601-2c|601.2c]]。
 
 <BOOKMARK:cr702-167>702.167. Craft\\ 
 702.167. 化炼
@@ -3214,7 +3229,7 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
 702.174k 如果某咒语的操控者宣告将要支付该咒语的礼赠费用，则该咒语已应诺礼赠。
 
 <BOOKMARK:cr702-174m>702.174m If part of a spell’s ability has its effect only if its gift was promised, and that part of the ability includes any targets, the spell’s controller chooses those targets only if the gift was promised.\\ 
-702.174m 如果某异能的一部分只会在该咒语已应诺礼赠时才会生效，且该部分的异能包含了目标，则该咒语的操控者只在该咒语已应诺礼赠时，才要选择这些目标。
+702.174m 如果某咒语的部分异能只会在该咒语已应诺礼赠时才会生效，且该部分的异能包含了目标，则该咒语的操控者只在该咒语已应诺礼赠时，才要选择这些目标。
 
 <BOOKMARK:cr702-175>702.175. Offspring\\ 
 702.175. 繁生
@@ -3234,8 +3249,8 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
 <BOOKMARK:cr702-177>702.177. Exhaust\\ 
 702.177. 竭绝
 
-<BOOKMARK:cr702-177a>702.177a An exhaust ability is a special kind of activated ability. “Exhaust — [Cost]: [Effect]” means “[Cost]: [Effect]. Activate only once.”\\ 
-702.177a 竭绝异能是一类特殊的起动式异能。“竭绝～[费用]：[效应]”意指，“[费用]：[效应]。只能起动一次。”
+<BOOKMARK:cr702-177a>702.177a Exhaust is a keyword that adds additional rules to the activated ability that follows it. “Exhaust — [Cost]: [Effect]” means “[Cost]: [Effect]. Activate only once.”\\ 
+702.177a 竭绝是一个关键字，会为其后的起动式异能增添额外规则。“竭绝～[费用]：[效应]”意指，“[费用]：[效应]。只能起动一次。”
 
 <BOOKMARK:cr702-177b>702.177b An effect may allow you to take an action as long as you haven’t activated an exhaust ability this turn. Such an effect allows that action only if you haven’t begun to activate an exhaust ability this turn.\\ 
 702.177b 一个效应允许你只要本回合中还未起动过任何竭绝异能，就能执行一个动作。此类效应仅在你本回合中尚未开始起动竭绝异能的情况下，才允许你执行该动作。
@@ -3246,8 +3261,8 @@ Example: Elvish Refueler has an exhaust ability that costs mana and also has an 
 <BOOKMARK:cr702-178>702.178. Max Speed\\ 
 702.178. 速度极限
 
-<BOOKMARK:cr702-178a>702.178a A max speed ability is a special kind of static ability. “Max speed — [Ability]” means “As long as your speed is 4, this object has ‘[Ability].’” See rule 702.179, “Start Your Engines!”\\ 
-702.178a 速度极限是一类特殊的静止式异能。“速度极限～[异能]”意指“只要你的速度达到4，此物件便具有[异能]。”参见规则[[cr:7#cr702-179|702.179]]，“发动引擎！”。
+<BOOKMARK:cr702-178a>702.178a A max speed ability is a static ability. “Max speed — [Ability]” means “As long as your speed is 4, this object has ‘[Ability].’” See rule 702.179, “Start Your Engines!”\\ 
+702.178a 速度极限属于静止式异能。“速度极限～[异能]”意指“只要你的速度达到4，此物件便具有[异能]。”参见规则[[cr:7#cr702-179|702.179]]，“发动引擎！”。
 
 <BOOKMARK:cr702-178b>702.178b If an ability granted by a max speed ability states which zones it functions from, the max speed ability that grants that ability functions from those zones. (See rule 113.6c.)\\ 
 702.178b 如果速度极限异能所赋予的异能注明了其生效的区域，则赋予该异能的速度极限异能也会在这些区域生效。
@@ -3386,6 +3401,27 @@ Example: Tapestry Warden has as ability that reads “Each creature you control 
 
 <BOOKMARK:cr702-192a>702.192a Paradigm represents two spell abilities, one of which creates a delayed triggered ability. Paradigm means “If this is the first time a spell you control with this spell’s name has resolved this game, at the beginning of each of your precombat main phases for the rest of the game, create a copy of this object in exile. You may cast the copy without paying its mana cost” and “Exile this spell.” See rule 707.10.\\ 
 702.192a 定式代表两个咒语异能，其中一个会创造一个延迟触发式异能。定式意指，“如果这是本盘游戏中由你操控且具此咒语名称的咒语第一次结算，则在本盘游戏接下来的时段你的每个战斗前行动阶段时，在放逐区派出一个此物件的复制品。你可以施放该复制品，且不需支付其法术力费用”和“放逐此咒语。”参见规则[[cr:7#cr707-10|707.10]]。
+
+<BOOKMARK:cr702-193>702.193. Power-up\\ 
+702.193. 超能
+
+<BOOKMARK:cr702-193a>702.193a Power-up is a keyword that adds additional rules to the activated ability that follows it. “Power-up — [Cost]: [Effect]” means “[Cost]: [Effect]. If this permanent entered this turn, this ability’s cost is reduced by this permanent’s mana cost. Activate this ability only once.”\\ 
+702.193a 超能是一个关键字，会为其后的起动式异能增添额外规则。“超能～[费用]：[效应]”意指，“[费用]：[效应]。如果此永久物是于本回合进场，则此异能的费用会减少等同于此永久物的法术力费用。只能起动一次。”
+
+<BOOKMARK:cr702-193b>702.193b Generic mana in the permanent’s mana cost reduces generic mana in the cost to activate its power-up ability. Colored and colorless mana in the permanent’s mana cost reduces mana of the same type, and any excess reduces that much generic mana. (See rule 118.7.)\\ 
+702.193b 该永久物的法术力费用中之一般法术力，将减少起动其超能异能费用中的一般法术力。该永久物的法术力费用中之有色法术力和无色法术力，将减少同样类型的法术力，如有剩余的部分，则将减少等量的一般法术力。（参见规则[[cr:1#cr118-7|118.7]]。）
+
+<BOOKMARK:cr702-194>702.194. Teamwork\\ 
+702.194. 联合
+
+<BOOKMARK:cr702-194a>702.194a Teamwork represents a static ability that functions while the spell with teamwork is on the stack. “Teamwork N” means “As an additional cost to cast this spell, you may tap any number of creatures you control with total power N or more.” Paying a spell’s teamwork cost follows the rules for paying additional costs in rules 601.2b and 601.2f–h.\\ 
+702.194a 联合代表一个静止式异能，在具联合异能的咒语在堆叠上时生效。“联合N”意指“你可以横置任意数量由你操控且力量总和等于或大于N的生物，以作为施放此咒语的额外费用。”支付咒语之联合费用时，需依照规则[[cr:6#cr601-2b|601.2b]]与规则[[cr:6#cr601-2f|601.2f-h]]的规定来支付额外费用。
+
+<BOOKMARK:cr702-194b>702.194b Abilities may refer to a spell cast “using teamwork” or similar. Such phrases refer to whether the player who cast the spell declared the intention to pay the spell’s teamwork cost as they cast that spell.\\ 
+702.194b 异能可能会提及咒语“经联合施放”等表述。这类用语提及的是施放该咒语的牌手是否宣告将要于施放该咒语时支付其联合费用。
+
+<BOOKMARK:cr702-194c>702.194c If part of a spell’s ability has its effect only if teamwork was used to cast it, and that part of the ability includes any targets, the spell’s controller chooses those targets only if teamwork was used to cast that spell. Otherwise, the spell is cast as if it did not have those targets. See rule 601.2c.\\ 
+702.194c 如果某异能的部分异能只会在该咒语经联合施放后才会生效，且该部分的异能包含了目标，则该咒语的操控者只在该咒语经联合施放时，才要选择这些目标。否则，便视同该咒语施放时并无此类目标。参见规则[[cr:6#cr601-2c|601.2c]]。
 
 ===== 703. 回合动作 Turn-Based Actions =====
 <BOOKMARK:cr703>703. Turn-Based Actions\\ 
@@ -3813,7 +3849,10 @@ Example: An Unstable Shapeshifter copies an Olivia Voldaren. Olivia Voldaren rea
 例如：不稳定变形兽复制奥莉薇亚沃达连。奥莉薇亚沃达连具有“{1}{R}：奥莉薇亚沃达连对另一个目标生物造成1点伤害。该生物额外具有吸血鬼此类别。在奥莉薇亚沃达连上放置一个+1/+1指示物。”如果起动不稳定变形兽的这个异能，则即使不稳定变形兽已不再是奥莉薇亚沃达连的复制品，也会造成1点伤害并在其上放置一个+1/+1指示物。
 
 <BOOKMARK:cr707-12>707.12. An effect that instructs a player to cast a copy of an object (and not just copy a spell) follows the rules for casting spells, except that the copy is created in the same zone the object is in and then cast while another spell or ability is resolving. Casting a copy of an object follows steps 601.2a–h of rule 601, “Casting Spells,” and then the copy becomes cast. Once cast, the copy is a spell on the stack, and just like any other spell it can resolve or be countered.\\ 
-707.12. 一个要求牌手施放[物件]的复制品之效应（而不只是复制一个咒语），会遵照施放咒语的规则，不同之处在于会在该物件相同的区域中被创造，然后于另一个咒语或异能正在结算中施放此复制品。施放物件的复制品需要遵照规则[[cr:6#cr601|601]]“施放咒语”中601.2a-h的步骤依序行事，然后此复制品被施放。一旦被施放，所施放的复制品也属于堆叠上的咒语，与其他咒语一样可以结算或被反击。
+707.12. 一个指示牌手施放物件的复制品之效应（而不只是复制一个咒语），会遵照施放咒语的规则，不同之处在于，复制品会于另一个咒语或异能结算中在该物件相同的区域中被创造，然后施放。施放物件的复制品需依照规则[[cr:6#cr601|601]]“施放咒语”中601.2a-h的步骤依序行事，然后此复制品被施放。一旦被施放，所施放的复制品也属于堆叠上的咒语，与其他咒语一样可以结算或被反击。
+
+<BOOKMARK:cr707-12a>707.12a An effect that creates multiple copies and says a player “may cast” those objects allows that player to choose individually, for each of those objects, whether or not to cast it.\\ 
+707.12a 创造多个复制品且叙述某牌手“可以施放”这些物件的效应，允许该牌手分别为每个此类物件选择是否施放之。
 
 <BOOKMARK:cr707-13>707.13. One card (Garth One-Eye) instructs a player to create a copy of a card defined by name rather than by indicating an object to be copied. To do so, the player uses the Oracle card reference to determine the characteristics of the copy and creates the copy outside of the game.\\ 
 707.13. 一张牌（独眼嘉斯）指示牌手派出以名称定义的牌之复制品。牌手如此作时应使用Oracle牌张参考文献来决定该复制品的特征，并在游戏之外派出该复制品。
@@ -3834,7 +3873,7 @@ Example: An Unstable Shapeshifter copies an Olivia Voldaren. Olivia Voldaren rea
 <BOOKMARK:cr708-2a>708.2a If a face-up permanent is turned face down by a spell or ability that doesn’t list any characteristics for that object, it becomes a 2/2 face-down creature with no text, no name, no subtypes, and no mana cost. A permanent that enters the battlefield face down also has these characteristics unless otherwise specified by the effect that put it onto the battlefield face down or allowed it to be cast face down. These values are the copiable values of that object’s characteristics.\\ 
 708.2a 如果一个牌面朝上的永久物因咒语或异能翻成牌面朝下，且其并未叙述该物件的任何特征，它会成为2/2的牌面朝下生物，且没有内文叙述、名称、副类别及法术力费用。以牌面朝下方式进入战场的永久物也具有这样的特征，除非将其牌面朝下放进战场或允许其牌面朝下地被施放的效应另有指定。这些数值即为该物件的可复制特征值。
 
-<BOOKMARK:cr708-2b>708.2b A face-down permanent can’t be turned face-down. If a spell or ability attempts to turn a face-down permanent face down, nothing happens and that effect doesn’t change any of its characteristics or their copiable values.\\ 
+<BOOKMARK:cr708-2b>708.2b A face-down permanent can’t be turned face down. If a spell or ability attempts to turn a face-down permanent face down, nothing happens and that effect doesn’t change any of its characteristics or their copiable values.\\ 
 708.2b 一个牌面朝下的永久物不能被翻为牌面朝下。如果一个咒语或异能尝试将一个牌面朝下的永久物翻为牌面朝下，则什么都不会发生，该效应也不会改变其任何特征或可复制特征值。
 
 <BOOKMARK:cr708-3>708.3. Objects that are put onto the battlefield face down are turned face down before they enter the battlefield, so the permanent’s enters-the-battlefield abilities won’t trigger (if triggered) or have any effect (if static).\\ 
@@ -4159,8 +4198,8 @@ Example: A player controls both Mycosynth Lattice and March of the Machines, the
 <BOOKMARK:cr712-15a>712.15a While face down, a double-faced permanent can’t transform or convert. If it’s turned face up, it will have its front face up.\\ 
 712.15a 双面永久物在牌面朝下的状态下不能转化或转换。如果它被翻回正面，它的正面朝上。
 
-<BOOKMARK:cr712-16>712.16. Melded permanents and other double-faced permanents can’t be turned face down. If a spell or ability tries to turn a double-faced permanent face down, nothing happens.\\ 
-712.16. 已融合的永久物和其他双面永久物不会被翻为牌面朝下。如果一个咒语或异能要让双面永久物翻为牌面朝下，则什么都不会发生。
+<BOOKMARK:cr712-16>712.16. Melded permanents and other double-faced permanents can’t be turned face down. If a spell or ability tries to turn a double-faced permanent face down, nothing happens and that effect doesn’t change any of its characteristics or their copiable values.\\ 
+712.16. 已融合的永久物和其他双面永久物不会被翻为牌面朝下。如果一个咒语或异能要让双面永久物翻为牌面朝下，则什么都不会发生，该效应也不会改变其任何特征或可复制特征值。
 
 <BOOKMARK:cr712-17>712.17. A double-faced card that is exiled face down remains hidden, using a face-down substitute card and/or opaque sleeves. See rule 713, “Substitute Cards.”\\ 
 712.17. 牌面朝下地放逐的双面牌使用牌面朝下的辅助牌和/或不透明的牌套使该牌的牌面保持隐藏状态。参见规则[[cr:7#cr713|713]]，“辅助牌”。
@@ -4533,7 +4572,7 @@ Example: Leyline of the Void is an enchantment that reads, in part, “If a card
 722.3b 规则或效应可能使永久物成为“已撤法”。这会移除该永久物的“已备法”称号。
 
 <BOOKMARK:cr722-3c>722.3c As a permanent with a prepare spell gains the prepared designation or phases in prepared, its controller creates a copy of that object in exile, except that copy has only the characteristics of that permanent’s prepare spell, ignoring other exceptions to the copying process that apply to that permanent. Those characteristics become the copy’s normal characteristics. This copy remains in exile for as long as the prepared permanent remains on the battlefield and has the prepared designation. This is an exception to rule 704.5e. For as long as the copy remains in exile, the prepared permanent’s controller may cast the copy. That permanent loses the prepared designation at the time the spell becomes cast (see rule 601.2i).\\ 
-722.3c 于具有备法咒语的永久物获得已备法此称号或跃回且已备法时，其操控者在放逐区中派出一个该物件的复制品，但该复制品仅具有该永久物备法咒语的特征，且忽略适用于该永久物的其他复制过程之例外。这些特征成为该复制品的正常特征。于该已备法永久物持续在战场上且具有已备法此称号的时段内，该复制品便留在放逐区。这是规则[[cr:7#cr704-5e|704.5e]]的例外情况。于该复制品持续放逐的时段内，该已备法永久物的操控者可以施放该复制品。于该咒语成为被施放时，对应的永久物失去已备法此称号（参见规则[[cr:6#cr601-2i|601.2i]]）。
+722.3c 于具有备法咒语的永久物获得已备法此称号或跃回且已备法时，其操控者在放逐区中派出一个该物件的复制品，但该复制品仅具有该永久物备法咒语的特征，且忽略对该永久物的其他复制过程生效之例外。这些特征成为该复制品的正常特征。于该已备法永久物持续在战场上且具有已备法此称号的时段内，该复制品便留在放逐区。这是规则[[cr:7#cr704-5e|704.5e]]的例外情况。于该复制品持续放逐的时段内，该已备法永久物的操控者可以施放该复制品。于该咒语成为被施放时，对应的永久物失去已备法此称号（参见规则[[cr:6#cr601-2i|601.2i]]）。
 
 Example: A player casts Croaking Counterpart targeting an Encouraging Aviator. Croaking Counterpart is an instant that says, in part, “Create a token that’s a copy of target non-Frog creature, except it’s a 1/1 green Frog.” Encouraging Aviator is a preparation creature card which says, in part, “Whenever this creature attacks, it becomes prepared.” Its prepare spell is an instant named Jump which says “Target creature gains flying until end of turn.” The player then attacks with the token copy of Encouraging Aviator. As the token copy of Encouraging Aviator becomes prepared, the copy created in exile is a blue instant named Jump that says “Target creature gains flying until end of turn.” It is not green, nor does it have power and toughness 1/1 or the Frog creature type.\\ 
 例如：某牌手施放呱叫反身，目标是勉励空翔师。呱叫反身是瞬间，其部分叙述为“派出一个衍生物，此衍生物为目标非蛙生物的复制品，但它是1/1绿色的蛙。”勉励空翔师是一张备法生物牌，其部分叙述为“每当此生物攻击时，它成为已备法。”它的备法咒语是名称为跳跃的瞬间，其叙述为“目标生物获得飞行异能直到回合结束。”该牌手随后使用勉励空翔师的衍生复制品进行攻击。于勉励空翔师的衍生复制品成为已备法时，在放逐区中派出的复制品是名称为跳跃的蓝色瞬间，其叙述为“目标生物获得飞行异能直到回合结束。”它不是绿色，也不具有力量和防御力1/1或蛙此生物类别。
@@ -4828,8 +4867,8 @@ Example: If a card was brought into the subgame either from the main game or fro
 <BOOKMARK:cr730-2i>730.2i A merged permanent is not a double-faced permanent even if it contains one or more double-faced components. If a merged permanent contains one or more double-faced components that can transform (see rule 712), transforming or converting that permanent causes each of those double-faced components to turn so that its other face is up.\\ 
 730.2i 结聚永久物不是双面永久物，即使它包含一个或数个双面组件。如果一个结聚永久物包含一张或数张可转化的双面组件（参见规则[[cr:7#cr712|712]]），转化或转换该永久物会使得其中每张双面组件都翻为另一面朝上。
 
-<BOOKMARK:cr730-2j>730.2j A face-up merged permanent that contains a double-faced component can’t be turned face down.\\ 
-730.2j 一个牌面朝上的、包含双面组件的结聚永久物不能翻为牌面朝下。
+<BOOKMARK:cr730-2j>730.2j A face-up merged permanent that contains a double-faced component can’t be turned face down. If a spell or ability tries to turn a face-up merged permanent that contains a double-faced component face down, nothing happens and that effect doesn’t change any of its characteristics or their copiable values.\\ 
+730.2j 一个牌面朝上的、包含双面组件的结聚永久物不能翻为牌面朝下。如果一个咒语或异能要让牌面朝上的、包含双面组件的结聚永久物翻为牌面朝下，则什么都不会发生，该效应也不会改变其任何特征或可复制特征值。
 
 <BOOKMARK:cr730-3>730.3. If a merged permanent leaves the battlefield, one permanent leaves the battlefield and each of the individual components are put into the appropriate zone.\\ 
 730.3. 如果一个结聚永久物离开战场，只有一个永久物会离开战场，且其中每个单独组件都会置入相应的区域。

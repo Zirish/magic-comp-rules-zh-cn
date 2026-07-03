@@ -184,6 +184,10 @@ An obsolete term for the battlefield. Cards that were printed with text that con
 一个特征，出现在牌类别栏的牌张类别之前。大多数牌没有超类别。参见规则[205.4](/cr/2/#cr205-4)，“超类别”。   
 A characteristic that appears before the card type on a card’s type line. Most cards don’t have a supertype. See rule 205.4, “Supertypes.”
 
+### <span id='超能'>超能</span> / <span id='Power-up'>Power-up</span>
+一个见于永久物上的仅限起动一次的起动式异能，在具该异能的永久物进战场的回合中能减少费用。参见规则[702.193](/cr/7/#cr702-193)，“超能”。   
+A one-time activated ability found on permanents that costs less during the turn the permanent with the ability entered the battlefield. See rule 702.193, “Power-up.”
+
 ### <span id='潮涌'>潮涌</span> / <span id='Surge'>Surge</span>
 一个关键字异能，提供一种施放牌的替代性费用，可以在你或队友在同一回合中施放过其他咒语后使用。参见规则[702.117](/cr/7/#cr702-117)，“潮涌”。   
 A keyword ability that provides an alternative cost to cast a card if you or one of your teammates has cast another spell in the same turn. See rule 702.117, “Surge.”
@@ -219,10 +223,6 @@ An effect that modifies characteristics of objects, modifies control of objects,
 ### <span id='持续性效应'>持续性效应</span> / <span id='Continuous Artifact (Obsolete)'>Continuous Artifact (Obsolete)</span>
 影响物件特征、物件操控权、或影响牌手或游戏规则的效应，具有固定时限或一直有效。参见规则[611](/cr/6/#cr611)，“持续性效应”。   
 An obsolete term that appeared on the type line of artifacts without activated abilities. Cards printed with this text have received errata in the Oracle card reference to simply say “Artifact.”
-
-### <span id='重生'>重生</span> / <span id='Regenerate'>Regenerate</span>
-将一个永久物的消灭用另一系列事件进行替代。参见规则[701.19](/cr/7/#cr701-19)，“重生”。   
-To replace a permanent’s destruction with an alternate sequence of events. See rule 701.19, “Regenerate.”
 
 ### <span id='重新开始游戏'>重新开始游戏</span> / <span id='Respond'>Respond</span>
 当前游戏马上结束并且重新开始。参见规则[727](/cr/7/#cr727)，“重新开始游戏”。   
@@ -423,17 +423,17 @@ Someone a player is playing against. See rules 102.2 and 102.3.
 在多人游戏中共享相同胜利条件的一组牌手。参见规则[808](/cr/8/#cr808)，“队伍对队伍玩法”、规则[809](/cr/8/#cr809)，“皇帝玩法”、规则[810](/cr/8/#cr810)，“双头巨人玩法”、和规则[811](/cr/8/#cr811)，“隔位分队玩法”。   
 A group of players who share a common victory condition in a multiplayer game. See rule 808, “Team vs. Team Variant,” rule 809, “Emperor Variant,” rule 810, “Two-Headed Giant Variant,” and rule 811, “Alternating Teams Variant.”
 
-### <span id='队伍对队伍玩法'>队伍对队伍玩法</span> / <span id='Teammate'>Teammate</span>
+### <span id='队伍对队伍玩法'>队伍对队伍玩法</span> / <span id='Team vs. Team Variant'>Team vs. Team Variant</span>
 两个或以上队伍间的多人玩法，每个队伍坐在一起。参见规则[808](/cr/8/#cr808)，“队伍对队伍玩法”。   
-In a multiplayer game between teams, a player’s teammates are the other players on their team. See rule 102.3.
+A multiplayer variant played among two or more teams, each of which sits together. See rule 808, “Team vs. Team Variant.”
 
 ### <span id='队伍共享回合模式'>队伍共享回合模式</span> / <span id='Shared Team Turns Option'>Shared Team Turns Option</span>
 在某些特殊多人玩法中可以使用的模式，比如双头巨人和魔王。参见规则[805](/cr/8/#cr805)，“队伍共享回合模式”。   
 An option that may be used in certain multiplayer variants, such as Two-Headed Giant and Archenemy. See rule 805, “Shared Team Turns Option.”
 
-### <span id='队友'>队友</span> / <span id='Team vs. Team Variant'>Team vs. Team Variant</span>
+### <span id='队友'>队友</span> / <span id='Teammate'>Teammate</span>
 在队伍间的多人游戏中，牌手的队友是其队伍中的其他牌手。参见规则[102.3](/cr/1/#cr102-3)。   
-A multiplayer variant played among two or more teams, each of which sits together. See rule 808, “Team vs. Team Variant.”
+In a multiplayer game between teams, a player’s teammates are the other players on their team. See rule 102.3.
 
 ### <span id='囤兵'>囤兵</span> / <span id='Amass'>Amass</span>
 一个关键字动作，给你一个灵俑／军队衍生生物或是壮大一个你已经拥有的军队。参见规则[701.47](/cr/7/#cr701-47)，“囤兵”。（译注：词汇表中囤兵此词条尚未更新到LTR版本。）   
@@ -600,7 +600,7 @@ A kind of continuous effect that watches for a damage event that would happen an
 
 ### <span id='放逐'>放逐</span> / <span id='Exhaust'>Exhaust</span>
 1. 一个区域。放逐区本质上是保留牌的区域。它之前被称为“移出游戏”区。   
-A special kind of activated ability that may be activated only once. See rule 702.177, “Exhaust.”
+An activated ability that may be activated only once. See rule 702.177, “Exhaust.”
 
 2. 从一个物件当前的区域中放到放逐区。一张“被放逐”的牌指被放进放逐区的牌。   
 
@@ -614,7 +614,7 @@ Exile
 竭绝   
 2. To put an object into the exile zone from whatever zone it’s currently in. An “exiled” card is one that’s been put into the exile zone.
 
-一类特殊的起动式异能，只能起动一次。参见规则[702.177](/cr/7/#cr702-177)，“竭绝”。   
+一个起动式异能，只能起动一次。参见规则[702.177](/cr/7/#cr702-177)，“竭绝”。   
 See rule 406, “Exile.”
 
 ### <span id='非传统万智牌'>非传统万智牌</span> / <span id='Nontraditional Magic Card'>Nontraditional Magic Card</span>
@@ -858,9 +858,9 @@ A casual variant in which players participate in a booster draft and then play m
 定义牌异能的特征。参见规则[207.1](/cr/2/#cr207-1)。   
 A characteristic that defines a card’s abilities. See rule 207.1.
 
-### <span id='过量伤害'>过量伤害</span> / <span id='Exert'>Exert</span>
+### <span id='过量伤害'>过量伤害</span> / <span id='Excess Damage'>Excess Damage</span>
 对生物造成之大于其致命伤害的部分伤害，或是对鹏洛客造成之大于其忠诚的部分伤害。参见规则[120.4a](/cr/1/#cr120-4a)。   
-A keyword action that stops a permanent from untapping during the next untap step of the player who exerted it. See rule 701.43, “Exert.”
+Damage dealt to a creature greater than what would be lethal damage or damage dealt to a planeswalker greater than its loyalty. See rule 120.4a.
 
 ## H
 ### <span id='海岛'>海岛</span> / <span id='Island'>Island</span>
@@ -871,9 +871,9 @@ One of the five basic land types. Any land with this subtype has the ability “
 参见地行者。   
 See Landwalk.
 
-### <span id='耗竭'>耗竭</span> / <span id='Exchange'>Exchange</span>
+### <span id='耗竭'>耗竭</span> / <span id='Exert'>Exert</span>
 一个关键字动作，阻止一个永久物于耗竭之的牌手之下一个重置步骤中重置。参见规则[701.43](/cr/7/#cr701-43)，“耗竭”。   
-To swap two things, such as objects, sets of objects, or life totals. See rule 701.12, “Exchange.”
+A keyword action that stops a permanent from untapping during the next untap step of the player who exerted it. See rule 701.43, “Exert.”
 
 ### <span id='合变'>合变</span> / <span id='Mutate'>Mutate</span>
 一个关键字，使得生物可以作为合变式生物咒语施放。参见规则[702.140](/cr/7/#cr702-140)，“合变”。   
@@ -1029,7 +1029,7 @@ A keyword ability that can make a creature particularly brutal when it attacks. 
 A keyword ability that modifies how a creature assigns combat damage. See rule 702.19, “Trample.”
 
 ### <span id='践踏鹏洛客'>践踏鹏洛客</span> / <span id='Trample Over Planeswalkers'>Trample Over Planeswalkers</span>
-践踏异能的一种变化，影响生物在攻击鹏洛客时分配战斗伤害的方式。参见规则[702.19](/cr/7/#cr702-19)，“践踏”。   
+践踏异能的一种变化形式，影响生物在攻击鹏洛客时分配战斗伤害的方式。参见规则[702.19](/cr/7/#cr702-19)，“践踏”。   
 A variant of trample that modifies how a creature assigns combat damage if it’s attacking a planeswalker. See rule 702.19, “Trample”
 
 ### <span id='见习'>见习</span> / <span id='Training'>Training</span>
@@ -1044,9 +1044,9 @@ Any player in the Emperor multiplayer variant who isn’t an emperor. See rule 8
 造访一些景点带来的额外好处。参见规则[702.159](/cr/7/#cr702-159)，“造访”。   
 An additional reward for visiting some Attractions. See rule 702.159, “Visit.”
 
-### <span id='交换'>交换</span> / <span id='Excess Damage'>Excess Damage</span>
+### <span id='交换'>交换</span> / <span id='Exchange'>Exchange</span>
 交换两个东西，例如物件、一组物件，或生命总值。参见规则[701.12](/cr/7/#cr701-12)，“交换”。   
-Damage dealt to a creature greater than what would be lethal damage or damage dealt to a planeswalker greater than its loyalty. See rule 120.4a.
+To swap two things, such as objects, sets of objects, or life totals. See rule 701.12, “Exchange.”
 
 ### <span id='阶段/时间跳跃（译者注：这两个词在英文原文中相同）'>阶段/时间跳跃（译者注：这两个词在英文原文中相同）</span> / <span id='Phase'>Phase</span>
 1. 组成回合的一部分。参见[第5章](/cr/5/)，“回合结构”。   
@@ -1270,6 +1270,10 @@ A keyword ability that allows a spell’s caster to choose an opponent as to rec
 ### <span id='涟动'>涟动</span> / <span id='Ripple'>Ripple</span>
 一个关键字异能，可以让牌手从其牌库中施放额外的牌且不需支付费用。参见规则[702.60](/cr/7/#cr702-60)，“涟动”。   
 A keyword ability that may let a player cast extra cards from their library for no cost. See rule 702.60, “Ripple.”
+
+### <span id='联合'>联合</span> / <span id='Teamwork'>Teamwork</span>
+一个关键字异能，表示一个横置生物的可选额外费用。参见规则[702.194](/cr/7/#cr702-194)，“联合”。   
+A keyword ability that represents an optional additional cost of tapping creatures. See rule 702.194, “Teamwork.”
 
 ### <span id='连击'>连击</span> / <span id='Double Strike'>Double Strike</span>
 一个关键字异能，让生物造成两次战斗伤害。参见规则[702.4](/cr/7/#cr702-4)，“连击”。   
@@ -1679,7 +1683,7 @@ See Intervening “If” Clause.
 
 ## S
 ### <span id='煽惑'>煽惑</span> / <span id='Goad'>Goad</span>
-一一个关键字动作，使一个生物直到某牌手的下一个回合以前成为已煽惑。参见规则[701.15](/cr/7/#cr701-15)，“煽惑”。   
+一个关键字动作，使一个生物直到某牌手的下一个回合以前成为已煽惑。参见规则[701.15](/cr/7/#cr701-15)，“煽惑”。   
 A keyword action that causes a creature to be goaded until a player’s next turn. See rule 701.15, “Goad.”
 
 ### <span id='山脉'>山脉</span> / <span id='Mountain'>Mountain</span>
@@ -1925,7 +1929,7 @@ There are several ways to lose the game. See rule 104, “Ending the Game,” ru
 A keyword action. To blight N means to put N -1/-1 counters on a creature you control. See rule 701.68, “Blight.”
 
 ### <span id='双重秘案'>双重秘案</span> / <span id='Double Agenda'>Double Agenda</span>
-秘案异能的一种变化。参见规则[702.106](/cr/7/#cr702-106)，“秘案”。   
+秘案异能的一种变化形式。参见规则[702.106](/cr/7/#cr702-106)，“秘案”。   
 A variant of the hidden agenda ability. See rule 702.106, “Hidden Agenda.”
 
 ### <span id='双面牌'>双面牌</span> / <span id='Double-Faced Cards'>Double-Faced Cards</span>
@@ -2057,7 +2061,7 @@ A marker placed on an object that modifies its characteristics or interacts with
 The collection of stickers found on an insert in Unfinity booster packs. See rule 123, “Stickers.”
 
 ### <span id='贴纸增幅'>贴纸增幅</span> / <span id='Sticker Kicker'>Sticker Kicker</span>
-增幅异能的一种变化，可以在咒语上贴上贴纸并给予牌手门票指示物。参见规则[702.33h](/cr/7/#cr702-33h)。   
+增幅异能的一种变化形式，可以在咒语上贴上贴纸并给予牌手门票指示物。参见规则[702.33h](/cr/7/#cr702-33h)。   
 A kicker variant that can add a sticker to the spell with the ability and give a player a ticket counter. See rule 702.33h.
 
 ### <span id='通联'>通联</span> / <span id='Splice'>Splice</span>
@@ -2126,7 +2130,7 @@ A keyword ability that restricts how a creature may be blocked. See rule 702.13,
 A default status a permanent may have. See rule 110.5 and rule 701.26, “Tap and Untap.” See also Tapped.
 
 ### <span id='威力变身'>威力变身</span> / <span id='Megamorph'>Megamorph</span>
-变身异能的一种变化，于生物翻回正面时在其上放置一个+1/+1指示物。参见规则[702.37](/cr/7/#cr702-37)，“变身”。   
+变身异能的一种变化形式，于生物翻回正面时在其上放置一个+1/+1指示物。参见规则[702.37](/cr/7/#cr702-37)，“变身”。   
 A variant of the morph ability that puts a +1/+1 counter on the creature as it turns face up. See rule 702.37, “Morph.”
 
 ### <span id='帷幕'>帷幕</span> / <span id='Shroud'>Shroud</span>
@@ -2358,8 +2362,8 @@ To choose a set of creatures that will block, declare which attacking creature e
 Part of the turn. This step is the third step of the combat phase. See rule 509, “Declare Blockers Step.”
 
 ### <span id='炫威'>炫威</span> / <span id='Boast'>Boast</span>
-一类特殊的起动式异能，如果具炫威异能的生物攻击过便可起动，且每回合只能起动一次。参见规则[702.142](/cr/7/#cr702-142)，“炫威”。   
-A special kind of activated ability that can be activated only once each turn if the creature with the boast ability attacked that turn. See rule 702.142, “Boast.”
+一个起动式异能，如果具炫威异能的生物攻击过便可起动，且每回合只能起动一次。参见规则[702.142](/cr/7/#cr702-142)，“炫威”。   
+An activated ability that can be activated only once each turn if the creature with the boast ability attacked that turn. See rule 702.142, “Boast.”
 
 ### <span id='选择身世'>选择身世</span> / <span id='Choose a Background'>Choose a Background</span>
 拍档异能的一种变化形式。在指挥官玩法中，如果两张传奇永久物牌其中之一具有“选择身世”异能，另一张是身世结界牌，则可将这两个传奇永久物用作你的指挥官，而非只使用一个。参见规则[702.124](/cr/7/#cr702-124)，“拍档”，及规则[903](/cr/9/#cr903)，“指挥官”。   
@@ -2613,6 +2617,10 @@ A zone in which not all players can be expected to see the cards’ faces. See r
 一个出现在生物上的异能，允许它们以替代性费用施放。如果以其隐现费用施放，它在一段时间内不是生物。参见规则[702.176](/cr/7/#cr702-176)，“隐现”。   
 An ability on some creatures that allows them to be cast for an alternative cost. If cast for its impending cost, it isn’t a creature for some period of time. See rule 702.176, “Impending.”
 
+### <span id='英杰'>英杰</span> / <span id='Worthy'>Worthy</span>
+描述一个传奇，非反派，且是红色／白色的生物之规则术语。参见规则[700.16](/cr/7/#cr700-16)。   
+A rules term used to describe a creature that’s legendary, not a Villain, and red and/or white. See rule 700.16.
+
 ### <span id='影响范围'>影响范围</span> / <span id='Range of Influence'>Range of Influence</span>
 参见限制影响范围。   
 See Limited Range of Influence.
@@ -2834,6 +2842,10 @@ A Treasure token is a colorless artifact token with “{T}, Sacrifice this token
 一个关键字异能，在具此异能的生物攻击时产生能留到战斗结束的红色法术力。参见规则[702.189](/cr/7/#cr702-189)，“振火”。   
 A keyword ability that adds red mana until end of combat whenever a creature with that ability attacks. See rule 702.189, “Firebending.”
 
+### <span id='振金衍生物'>振金衍生物</span> / <span id='Vibranium Token'>Vibranium Token</span>
+振金衍生物是具有不灭和“{T}：加{C}。此法术力不能用来施放非神器咒语。”的无色振金衍生神器。欲知关于预定义衍生物的更多信息，参见规则[111.10](/cr/1/#cr111-10)。   
+A Vibranium token is a colorless Vibranium artifact token with indestructible and “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.” For more information about predefined tokens, see rule 111.10.
+
 ### <span id='振励'>振励</span> / <span id='Bolster'>Bolster</span>
 一个关键字动作，在牌手操控的最弱的生物上放置+1/+1指示物。参见规则[701.39](/cr/7/#cr701-39)，“振励”。   
 A keyword action that puts +1/+1 counters on the weakest creature a player controls. See rule 701.39, “Bolster.”
@@ -2862,7 +2874,7 @@ To perform the actions required by a cost. This often means, but is not restrict
 A casual variant in which players participate in a booster draft and then play multiplayer games. See rule 903.13, “Commander Draft.”
 
 ### <span id='指挥官忍术'>指挥官忍术</span> / <span id='Commander Ninjutsu'>Commander Ninjutsu</span>
-忍术异能的一种变化。参见规则[702.49](/cr/7/#cr702-49)，“忍术”。   
+忍术异能的一种变化形式。参见规则[702.49](/cr/7/#cr702-49)，“忍术”。   
 A variant of the ninjutsu ability. See rule 702.49, “Ninjutsu.”
 
 ### <span id='指挥官税'>指挥官税</span> / <span id='Commander Tax'>Commander Tax</span>
@@ -2897,6 +2909,10 @@ To roll a twenty-sided die. Similarly, a d4 is a four-sided die, a d6 is a six-s
 一个随机决定两个相同可能性结果的方法。参见规则[705](/cr/7/#cr705)，“掷硬币”。   
 A method of randomization with two possible outcomes of equal likelihood. See rule 705, “Flipping a Coin.”
 
+### <span id='治愈'>治愈</span> / <span id='Heal'>Heal</span>
+移除永久物上已标记的伤害。参见规则[701.69](/cr/7/#cr701-69)，“治愈”。   
+To remove damage marked on a permanent. See rule 701.69, “Heal.”
+
 ### <span id='支援'>支援</span> / <span id='Support'>Support</span>
 一个关键字动作，让你在生物上放置+1/+1指示物。参见规则[701.41](/cr/7/#cr701-41)，“支援”。   
 A keyword action that lets you put +1/+1 counters on creatures. See rule 701.41, “Support.”
@@ -2927,6 +2943,10 @@ A counter that exiles the permanent it is on if that permanent would go to the g
 ### <span id='重配'>重配</span> / <span id='Reconfigure'>Reconfigure</span>
 一个关键字异能，让武具生物暂时不再是生物，且贴附于另一个生物上。参见规则[702.151](/cr/7/#cr702-151)，“重配”。   
 A keyword ability that allows an Equipment creature to temporarily stop being a creature and become attached to another creature. See rule 702.151, “Reconfigure.”
+
+### <span id='重生'>重生</span> / <span id='Regenerate'>Regenerate</span>
+将一个永久物的消灭用另一系列事件进行替代。参见规则[701.19](/cr/7/#cr701-19)，“重生”。   
+To replace a permanent’s destruction with an alternate sequence of events. See rule 701.19, “Regenerate.”
 
 ### <span id='昼形'>昼形</span> / <span id='Daybound'>Daybound</span>
 一种异能，见于一些双面牌的正面上。具昼形与夜形异能的牌，在白昼时正面朝上，在黑夜时背面朝上。参见规则[702.145](/cr/7/#cr702-145)，“昼形与夜形”，与规则[731](/cr/7/#cr731)，“白昼与黑夜”。   

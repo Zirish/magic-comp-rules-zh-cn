@@ -287,7 +287,7 @@ Example: Wort, the Raidmother’s color identity is red and green. A Wort Comman
 903.12b 争锋套牌通常使用标准赛制中的牌张构组。
 
 <BOOKMARK:cr903-12c>903.12c Each deck has a legendary card designated as its commander. That card must be either (a) a creature card, (b) a planeswalker card, (c) a Vehicle card, or (d) a Spacecraft card with one or more power/toughness boxes.\\ 
-903.12c 每副套牌均由一张传奇牌担任套牌的指挥官。该牌必须具备以下条件之一：（a）是生物牌；（b）是载具牌；（c）是具有至少一个力量/防御力方格的太空船牌。
+903.12c 每副套牌均由一张传奇牌担任套牌的指挥官。该牌必须具备以下条件之一：（a）是生物牌；（b）是鹏洛客牌；（c）是载具牌；（d）是具有至少一个力量/防御力方格的太空船牌。
 
 <BOOKMARK:cr903-12d>903.12d A player’s deck must contain exactly 60 cards, including its commander. In other words, the minimum deck size and the maximum deck size are both 60.\\ 
 903.12d 牌手的套牌必须包含正好60张牌（含指挥官）。换言之，套牌数量下限和套牌数量上限均为60。
