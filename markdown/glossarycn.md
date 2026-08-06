@@ -224,6 +224,10 @@ An effect that modifies characteristics of objects, modifies control of objects,
 影响物件特征、物件操控权、或影响牌手或游戏规则的效应，具有固定时限或一直有效。参见规则[611](/cr/6/#cr611)，“持续性效应”。   
 An obsolete term that appeared on the type line of artifacts without activated abilities. Cards printed with this text have received errata in the Oracle card reference to simply say “Artifact.”
 
+### <span id='重生'>重生</span> / <span id='Regenerate'>Regenerate</span>
+将一个永久物的消灭用另一系列事件进行替代。参见规则[701.19](/cr/7/#cr701-19)，“重生”。   
+To replace a permanent’s destruction with an alternate sequence of events. See rule 701.19, “Regenerate.”
+
 ### <span id='重新开始游戏'>重新开始游戏</span> / <span id='Respond'>Respond</span>
 当前游戏马上结束并且重新开始。参见规则[727](/cr/7/#cr727)，“重新开始游戏”。   
 To cast an instant spell or activate an ability while another spell or ability is already on the stack. See rule 117.7.
@@ -564,8 +568,8 @@ A keyword ability that lets a player cast a card from their graveyard. See rule 
 A triggered ability that triggers whenever a player moves their venture marker into a room of a dungeon card. See rule 309, “Dungeons.”
 
 ### <span id='防卫，防卫者'>防卫，防卫者</span> / <span id='Protect, Protector'>Protect, Protector</span>
-每个战役都需要指定一位牌手作为防卫者，该牌手防卫该战役。参见规则[310.8](/cr/3/#cr310-8)。   
-Each battle has a player designated as its protector, and that player protects that battle. See rule 310.8.
+每个战役都需要指定一位牌手作为防卫者，该牌手防卫该战役。参见规则[310.9](/cr/3/#cr310-9)。   
+Each battle has a player designated as its protector, and that player protects that battle. See rule 310.9.
 
 ### <span id='防御队伍'>防御队伍</span> / <span id='Defending Team'>Defending Team</span>
 在使用队伍共享回合模式的多人游戏的战斗阶段中，可以被攻击、且其鹏洛客可以被攻击的队伍。参见规则[805](/cr/8/#cr805)，“队伍共享回合模式”。   
@@ -1249,7 +1253,7 @@ A keyword ability that imposes an increasing cost to keep a permanent on the bat
 A keyword ability that lets a player copy a spell at the beginning of each of their upkeeps at the expense of casting any other spells for the rest of the game. See rule 702.50, “Epic.”
 
 ### <span id='离开战场'>离开战场</span> / <span id='Leaves the Battlefield'>Leaves the Battlefield</span>
-当一个永久物从战场移到另一个区域时，或（如果它跃回的话）当它因为其拥有者离开游戏而离开游戏时，它“离开战场”。参见规则[603.6c](/cr/6/#cr603-6c)以及[603.10](/cr/6/#cr603-10)。   
+当一个永久物从战场移到另一个区域时，或（如果它已跃回的话）当它因为其拥有者离开游戏而离开游戏时，它“离开战场”。参见规则[603.6c](/cr/6/#cr603-6c)以及[603.10](/cr/6/#cr603-10)。   
 A permanent “leaves the battlefield” when it’s moved from the battlefield to another zone, or (if it’s phased in) when it leaves the game because its owner leaves the game. See rules 603.6c and 603.10.
 
 ### <span id='力量'>力量</span> / <span id='Power'>Power</span>
@@ -1259,6 +1263,10 @@ A permanent “leaves the battlefield” when it’s moved from the battlefield 
 2. 一个只有生物才具有的特征。参见规则[302.4](/cr/3/#cr302-4)。   
 2. A characteristic that only creatures have. See rule 302.4.
 
+### <span id='历世书传'>历世书传</span> / <span id='Enduring Story'>Enduring Story</span>
+一个牌手可得到的称号。立传此关键字使牌手一旦操控三个或更多为传奇、传纪和／或神器的永久物便得到此称号。参见规则[702.195](/cr/7/#cr702-195)，“立传”。   
+A designation a player can have. The storied keyword causes a player to get this designation once they control three permanents that are artifacts, Sagas, and/or legendary. See rule 702.195, “Storied.”
+
 ### <span id='历险者牌'>历险者牌</span> / <span id='Adventurer Card'>Adventurer Card</span>
 一张分为两部分（且其中一部分是嵌在文字栏左面）的牌，其副特征包括历险此咒语类别。参见规则[715](/cr/7/#cr715)，“历险者牌”。   
 Cards with a two-part card frame (one part of which is inset on the left) on a single card where the alternative characteristics include the Adventure spell type. See rule 715, “Adventurer Cards.”
@@ -1266,6 +1274,10 @@ Cards with a two-part card frame (one part of which is inset on the left) on a s
 ### <span id='礼赠'>礼赠</span> / <span id='Gift'>Gift</span>
 一个关键字异能，允许咒语的施放者选择一位对手，令该牌手在该咒语结算或具有该异能的永久物进场时得到好处。参见规则[702.174](/cr/7/#cr702-174)，“礼赠”。   
 A keyword ability that allows a spell’s caster to choose an opponent as to receive a benefit as the spell resolves or when the permanent with the ability enters. See rule 702.174, “Gift.”
+
+### <span id='立传'>立传</span> / <span id='Storied'>Storied</span>
+一个关键字，在牌手操控三个或更多为传奇、传纪和／或神器的永久物后使牌手得到“历世书传”之称号。参见规则[702.195](/cr/7/#cr702-195)，“立传”。   
+A keyword causing a player to get the enduring story designation once they control three or more permanents that are artifacts, Sagas, and/or legendary. See rule 702.195, “Storied.”
 
 ### <span id='涟动'>涟动</span> / <span id='Ripple'>Ripple</span>
 一个关键字异能，可以让牌手从其牌库中施放额外的牌且不需支付费用。参见规则[702.60](/cr/7/#cr702-60)，“涟动”。   
@@ -1407,6 +1419,10 @@ A keyword action that causes a player to choose a creature they control to be th
 魔力石衍生物是具有“{T}：加{C}。此法术力不能用来施放非神器咒语。”的无色魔力石衍生神器。欲知关于预定义衍生物的更多信息，参见规则[111.10](/cr/1/#cr111-10)。   
 A Powerstone token is a colorless artifact token with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.” For more information about predefined tokens, see rule 111.10.
 
+### <span id='磨练指示物'>磨练指示物</span> / <span id='Hone Counter'>Hone Counter</span>
+武具上的一张指示物，让佩带的生物得+1/+0。参见规则[122](/cr/1/#cr122)，“指示物”。   
+A counter on an Equipment that gives the equipped creature +1/+0. See rule 122, “Counters.”
+
 ### <span id='模式双面牌'>模式双面牌</span> / <span id='Modal Double-Faced Cards'>Modal Double-Faced Cards</span>
 双面牌的一种。模式双面牌的两面可以任选一面朝上使用。参见规则[712](/cr/7/#cr712)，“双面牌”。   
 One kind of double-faced card. Modal double-faced cards can be played with either of their two faces up. See rule 712, “Double-Faced Cards.”
@@ -1433,6 +1449,10 @@ An icon that appears in the upper left of some Odyssey block cards that has no e
 ### <span id='目标'>目标</span> / <span id='Target'>Target</span>
 事先对一个咒语或异能将影响的物件或牌手作出的选择。参见规则[115](/cr/1/#cr115)，“目标”。   
 A preselected object or player a spell or ability will affect. See rule 115, “Targets.”
+
+### <span id='募兵'>募兵</span> / <span id='Recruit'>Recruit</span>
+一个关键字动作，让牌手抓一张牌，弃一张牌，如果弃的牌是非地牌则派出一个衍生生物。参见规则[701.70](/cr/7/#cr701-70)，“募兵”。   
+A keyword action that lets a player draw a card, discard a card, and then create a creature token if a nonland card was discarded. See rule 701.70, “Recruit.”
 
 ## N
 ### <span id='能量符号'>能量符号</span> / <span id='Energy Symbol'>Energy Symbol</span>
@@ -2016,13 +2036,13 @@ If a rule or effect states that a player’s deck must contain at least a specif
 牌手可以进行且不使用堆叠的动作。参见规则[116](/cr/1/#cr116)，“特殊动作”。   
 An action a player may take that doesn’t use the stack. See rule 116, “Special Actions.”
 
-### <span id='特征'>特征</span> / <span id='Characteristic-Defining Ability'>Characteristic-Defining Ability</span>
+### <span id='特征'>特征</span> / <span id='Characteristics'>Characteristics</span>
 定义一个物件的信息。参见规则[109.3](/cr/1/#cr109-3)。   
-A kind of static ability that conveys information about an object’s characteristics that would normally be found elsewhere on that object (such as in its mana cost, type line, or power/toughness box). See rule 604.3.
-
-### <span id='特征定义异能'>特征定义异能</span> / <span id='Characteristics'>Characteristics</span>
-一种静止式异能，包含物件一般情况下在该物件其他部分才能找到的特征信息（比如法术力费用，类别栏，或力量/防御力框）。参见规则[604.3](/cr/6/#cr604-3)。   
 Information that defines an object. See rule 109.3.
+
+### <span id='特征定义异能'>特征定义异能</span> / <span id='Characteristic-Defining Ability'>Characteristic-Defining Ability</span>
+一种静止式异能，包含物件一般情况下在该物件其他部分才能找到的特征信息（比如法术力费用，类别栏，或力量/防御力框）。参见规则[604.3](/cr/6/#cr604-3)。   
+A kind of static ability that conveys information about an object’s characteristics that would normally be found elsewhere on that object (such as in its mana cost, type line, or power/toughness box). See rule 604.3.
 
 ### <span id='替代性费用'>替代性费用</span> / <span id='Alternating Teams Variant'>Alternating Teams Variant</span>
 咒语可能具有的费用，其操控者可以选择支付该费用而不是其法术力费用。参见规则[118](/cr/1/#cr118)，“费用”，以及规则[601](/cr/6/#cr601)，“施放咒语”。   
@@ -2118,8 +2138,8 @@ Part of the turn. This step is the second step of the beginning phase. See rule 
 A default status a permanent may have. See rule 110.5 and rule 710, “Flip Cards.” See also Flipped.
 
 ### <span id='围攻'>围攻</span> / <span id='Siege'>Siege</span>
-一种战役类别。只有围攻的操控者之对手可以作为其防卫者。当移去最后一个布防指示物时，其操控者将它放逐，然后可以施放已转化的此牌，且不需支付其法术力费用。参见规则[310.11](/cr/3/#cr310-11)。   
-A battle subtype. Only an opponent of a Siege’s controller can be its protector. When the last defense counter is removed, its controller exiles the Siege, then they may cast it transformed without paying its mana cost. See rule 310.11.
+一种战役类别。只有围攻的操控者之对手可以作为其防卫者。当移去最后一个布防指示物时，其操控者将它放逐，然后可以施放已转化的此牌，且不需支付其法术力费用。参见规则[310.12](/cr/3/#cr310-12)。   
+A battle subtype. Only an opponent of a Siege’s controller can be its protector. When the last defense counter is removed, its controller exiles the Siege, then they may cast it transformed without paying its mana cost. See rule 310.12.
 
 ### <span id='威吓'>威吓</span> / <span id='Intimidate'>Intimidate</span>
 一个关键字异能，限制一个生物可以怎样被阻挡。参见规则[702.13](/cr/7/#cr702-13)，“威吓”。   
@@ -2943,10 +2963,6 @@ A counter that exiles the permanent it is on if that permanent would go to the g
 ### <span id='重配'>重配</span> / <span id='Reconfigure'>Reconfigure</span>
 一个关键字异能，让武具生物暂时不再是生物，且贴附于另一个生物上。参见规则[702.151](/cr/7/#cr702-151)，“重配”。   
 A keyword ability that allows an Equipment creature to temporarily stop being a creature and become attached to another creature. See rule 702.151, “Reconfigure.”
-
-### <span id='重生'>重生</span> / <span id='Regenerate'>Regenerate</span>
-将一个永久物的消灭用另一系列事件进行替代。参见规则[701.19](/cr/7/#cr701-19)，“重生”。   
-To replace a permanent’s destruction with an alternate sequence of events. See rule 701.19, “Regenerate.”
 
 ### <span id='昼形'>昼形</span> / <span id='Daybound'>Daybound</span>
 一种异能，见于一些双面牌的正面上。具昼形与夜形异能的牌，在白昼时正面朝上，在黑夜时背面朝上。参见规则[702.145](/cr/7/#cr702-145)，“昼形与夜形”，与规则[731](/cr/7/#cr731)，“白昼与黑夜”。   

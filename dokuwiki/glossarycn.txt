@@ -389,6 +389,13 @@ An obsolete term that appeared on the type line of artifacts without activated a
 影响物件特征、物件操控权、或影响牌手或游戏规则的效应，具有固定时限或一直有效。参见规则[[cr:6#cr611|611]]，“持续性效应”。
 
 ----
+Regenerate\\ 
+重生
+
+To replace a permanent’s destruction with an alternate sequence of events. See rule 701.19, “Regenerate.”\\ 
+将一个永久物的消灭用另一系列事件进行替代。参见规则[[cr:7#cr701-19|701.19]]，“重生”。
+
+----
 Respond\\ 
 重新开始游戏
 
@@ -974,8 +981,8 @@ A triggered ability that triggers whenever a player moves their venture marker i
 Protect, Protector\\ 
 防卫，防卫者
 
-Each battle has a player designated as its protector, and that player protects that battle. See rule 310.8.\\ 
-每个战役都需要指定一位牌手作为防卫者，该牌手防卫该战役。参见规则[[cr:3#cr310-8|310.8]]。
+Each battle has a player designated as its protector, and that player protects that battle. See rule 310.9.\\ 
+每个战役都需要指定一位牌手作为防卫者，该牌手防卫该战役。参见规则[[cr:3#cr310-9|310.9]]。
 
 ----
 Defending Team\\ 
@@ -2143,7 +2150,7 @@ Leaves the Battlefield\\
 离开战场
 
 A permanent “leaves the battlefield” when it’s moved from the battlefield to another zone, or (if it’s phased in) when it leaves the game because its owner leaves the game. See rules 603.6c and 603.10.\\ 
-当一个永久物从战场移到另一个区域时，或（如果它跃回的话）当它因为其拥有者离开游戏而离开游戏时，它“离开战场”。参见规则[[cr:6#cr603-6c|603.6c]]以及[[cr:6#cr603-10|603.10]]。
+当一个永久物从战场移到另一个区域时，或（如果它已跃回的话）当它因为其拥有者离开游戏而离开游戏时，它“离开战场”。参见规则[[cr:6#cr603-6c|603.6c]]以及[[cr:6#cr603-10|603.10]]。
 
 ----
 Power\\ 
@@ -2154,6 +2161,13 @@ Power\\
 
 2. A characteristic that only creatures have. See rule 302.4.\\ 
 2. 一个只有生物才具有的特征。参见规则[[cr:3#cr302-4|302.4]]。
+
+----
+Enduring Story\\ 
+历世书传
+
+A designation a player can have. The storied keyword causes a player to get this designation once they control three permanents that are artifacts, Sagas, and/or legendary. See rule 702.195, “Storied.”\\ 
+一个牌手可得到的称号。立传此关键字使牌手一旦操控三个或更多为传奇、传纪和／或神器的永久物便得到此称号。参见规则[[cr:7#cr702-195|702.195]]，“立传”。
 
 ----
 Adventurer Card\\ 
@@ -2168,6 +2182,13 @@ Gift\\
 
 A keyword ability that allows a spell’s caster to choose an opponent as to receive a benefit as the spell resolves or when the permanent with the ability enters. See rule 702.174, “Gift.”\\ 
 一个关键字异能，允许咒语的施放者选择一位对手，令该牌手在该咒语结算或具有该异能的永久物进场时得到好处。参见规则[[cr:7#cr702-174|702.174]]，“礼赠”。
+
+----
+Storied\\ 
+立传
+
+A keyword causing a player to get the enduring story designation once they control three or more permanents that are artifacts, Sagas, and/or legendary. See rule 702.195, “Storied.”\\ 
+一个关键字，在牌手操控三个或更多为传奇、传纪和／或神器的永久物后使牌手得到“历世书传”之称号。参见规则[[cr:7#cr702-195|702.195]]，“立传”。
 
 ----
 Ripple\\ 
@@ -2412,6 +2433,13 @@ A Powerstone token is a colorless artifact token with “{T}: Add {C}. This mana
 魔力石衍生物是具有“{T}：加{C}。此法术力不能用来施放非神器咒语。”的无色魔力石衍生神器。欲知关于预定义衍生物的更多信息，参见规则[[cr:1#cr111-10|111.10]]。
 
 ----
+Hone Counter\\ 
+磨练指示物
+
+A counter on an Equipment that gives the equipped creature +1/+0. See rule 122, “Counters.”\\ 
+武具上的一张指示物，让佩带的生物得+1/+0。参见规则[[cr:1#cr122|122]]，“指示物”。
+
+----
 Modal Double-Faced Cards\\ 
 模式双面牌
 
@@ -2455,6 +2483,13 @@ Target\\
 
 A preselected object or player a spell or ability will affect. See rule 115, “Targets.”\\ 
 事先对一个咒语或异能将影响的物件或牌手作出的选择。参见规则[[cr:1#cr115|115]]，“目标”。
+
+----
+Recruit\\ 
+募兵
+
+A keyword action that lets a player draw a card, discard a card, and then create a creature token if a nonland card was discarded. See rule 701.70, “Recruit.”\\ 
+一个关键字动作，让牌手抓一张牌，弃一张牌，如果弃的牌是非地牌则派出一个衍生生物。参见规则[[cr:7#cr701-70|701.70]]，“募兵”。
 
 ----
 === N ===
@@ -3444,17 +3479,17 @@ An action a player may take that doesn’t use the stack. See rule 116, “Speci
 牌手可以进行且不使用堆叠的动作。参见规则[[cr:1#cr116|116]]，“特殊动作”。
 
 ----
-Characteristic-Defining Ability\\ 
+Characteristics\\ 
 特征
 
-A kind of static ability that conveys information about an object’s characteristics that would normally be found elsewhere on that object (such as in its mana cost, type line, or power/toughness box). See rule 604.3.\\ 
+Information that defines an object. See rule 109.3.\\ 
 定义一个物件的信息。参见规则[[cr:1#cr109-3|109.3]]。
 
 ----
-Characteristics\\ 
+Characteristic-Defining Ability\\ 
 特征定义异能
 
-Information that defines an object. See rule 109.3.\\ 
+A kind of static ability that conveys information about an object’s characteristics that would normally be found elsewhere on that object (such as in its mana cost, type line, or power/toughness box). See rule 604.3.\\ 
 一种静止式异能，包含物件一般情况下在该物件其他部分才能找到的特征信息（比如法术力费用，类别栏，或力量/防御力框）。参见规则[[cr:6#cr604-3|604.3]]。
 
 ----
@@ -3623,8 +3658,8 @@ A default status a permanent may have. See rule 110.5 and rule 710, “Flip Card
 Siege\\ 
 围攻
 
-A battle subtype. Only an opponent of a Siege’s controller can be its protector. When the last defense counter is removed, its controller exiles the Siege, then they may cast it transformed without paying its mana cost. See rule 310.11.\\ 
-一种战役类别。只有围攻的操控者之对手可以作为其防卫者。当移去最后一个布防指示物时，其操控者将它放逐，然后可以施放已转化的此牌，且不需支付其法术力费用。参见规则[[cr:3#cr310-11|310.11]]。
+A battle subtype. Only an opponent of a Siege’s controller can be its protector. When the last defense counter is removed, its controller exiles the Siege, then they may cast it transformed without paying its mana cost. See rule 310.12.\\ 
+一种战役类别。只有围攻的操控者之对手可以作为其防卫者。当移去最后一个布防指示物时，其操控者将它放逐，然后可以施放已转化的此牌，且不需支付其法术力费用。参见规则[[cr:3#cr310-12|310.12]]。
 
 ----
 Intimidate\\ 
@@ -5027,13 +5062,6 @@ Reconfigure\\
 
 A keyword ability that allows an Equipment creature to temporarily stop being a creature and become attached to another creature. See rule 702.151, “Reconfigure.”\\ 
 一个关键字异能，让武具生物暂时不再是生物，且贴附于另一个生物上。参见规则[[cr:7#cr702-151|702.151]]，“重配”。
-
-----
-Regenerate\\ 
-重生
-
-To replace a permanent’s destruction with an alternate sequence of events. See rule 701.19, “Regenerate.”\\ 
-将一个永久物的消灭用另一系列事件进行替代。参见规则[[cr:7#cr701-19|701.19]]，“重生”。
 
 ----
 Daybound\\ 

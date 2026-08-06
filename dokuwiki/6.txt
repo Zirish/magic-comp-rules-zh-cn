@@ -393,8 +393,8 @@ Example: Heart-Piercer Manticore has an ability that reads “When this creature
 <BOOKMARK:cr605-1>605.1. Some activated abilities and some triggered abilities are mana abilities, which are subject to special rules. Only abilities that meet either of the following two sets of criteria are mana abilities, regardless of what other effects they may generate or what timing restrictions (such as “Activate only as an instant”) they may have.\\ 
 605.1. 一些起动式异能和一些触发式异能为法术力异能，它们遵从特殊的规则。只有符合以下两者之一的异能为法术力异能，无论它们还产生何种其他效应或可能有的时机限制（例如“只能于瞬间时机起动”）。
 
-<BOOKMARK:cr605-1a>605.1a An activated ability is a mana ability if it meets all of the following criteria: it doesn’t require a target (see rule 115.6), it could add mana to a player’s mana pool when it resolves, and it’s not a loyalty ability. (See rule 606, “Loyalty Abilities.”)\\ 
-605.1a 如果一个起动式异能符合以下所有条件，则它属于法术力异能：不需要目标（参见规则[[cr:1#cr115-6|115.6]]）、在结算时可以加法术力到牌手的法术力池中、且它不是忠诚异能。（参见规则[[cr:6#cr606|606]]，“忠诚异能”。）
+<BOOKMARK:cr605-1a>605.1a An activated ability is a mana ability if it meets all of the following criteria: it doesn’t require a target (see rule 115.6), it could add mana to a player’s mana pool when it resolves, it’s not a loyalty ability (see rule 606, “Loyalty Abilities”), and its cost and effect don’t move any card to or from a library. Do not take into account replacement effects that may apply, other than self-replacement effects, when evaluating these criteria.\\ 
+605.1a 如果一个起动式异能符合以下所有条件，则它属于法术力异能：不需要目标（参见规则[[cr:1#cr115-6|115.6]]）、在结算时可以加法术力到牌手的法术力池中、不是忠诚异能（参见规则[[cr:6#cr606|606]]，“忠诚异能”）、且其费用和效应不会使牌移入或移出牌库。在考虑此类条件时，忽略除自我替代性效应以外任何可能生效的替代性效应。
 
 <BOOKMARK:cr605-1b>605.1b A triggered ability is a mana ability if it meets all of the following criteria: it doesn’t require a target (see rule 115.6), it triggers from the activation or resolution of an activated mana ability (see rule 605.1a) or from mana being added to a player’s mana pool, and it could add mana to a player’s mana pool when it resolves.\\ 
 605.1b 如果一个触发式异能符合以下所有条件，则它属于法术力异能：不需要目标（参见规则[[cr:1#cr115-6|115.6]]）、因起动式法术力异能的起动或结算、或因法术力加到牌手的法术力池中而触发（参见规则[[cr:6#cr605-1a|605.1a]]）、且在结算时可以加法术力到牌手的法术力池中。

@@ -716,17 +716,17 @@ The chaos symbol appears on the planar die and near some triggered abilities of 
 
 ----
 Characteristic-Defining Ability\\ 
-特征
+特征定义异能
 
 A kind of static ability that conveys information about an object’s characteristics that would normally be found elsewhere on that object (such as in its mana cost, type line, or power/toughness box). See rule 604.3.\\ 
-定义一个物件的信息。参见规则[[cr:1#cr109-3|109.3]]。
+一种静止式异能，包含物件一般情况下在该物件其他部分才能找到的特征信息（比如法术力费用，类别栏，或力量/防御力框）。参见规则[[cr:6#cr604-3|604.3]]。
 
 ----
 Characteristics\\ 
-特征定义异能
+特征
 
 Information that defines an object. See rule 109.3.\\ 
-一种静止式异能，包含物件一般情况下在该物件其他部分才能找到的特征信息（比如法术力费用，类别栏，或力量/防御力框）。参见规则[[cr:6#cr604-3|604.3]]。
+定义一个物件的信息。参见规则[[cr:1#cr109-3|109.3]]。
 
 ----
 Choose a Background\\ 
@@ -1595,6 +1595,13 @@ A keyword ability that lets you choose put +1/+1 counters on a creature or creat
 一个关键字异能，让你选择在生物上放置+1/+1指示物或派出精怪衍生生物。参见规则[[cr:7#cr702-62|702.62]]，“续战”。（译注：我确信这是一个关键字动作。）
 
 ----
+Enduring Story\\ 
+历世书传
+
+A designation a player can have. The storied keyword causes a player to get this designation once they control three permanents that are artifacts, Sagas, and/or legendary. See rule 702.195, “Storied.”\\ 
+一个牌手可得到的称号。立传此关键字使牌手一旦操控三个或更多为传奇、传纪和／或神器的永久物便得到此称号。参见规则[[cr:7#cr702-195|702.195]]，“立传”。
+
+----
 Energy Symbol\\ 
 能量符号
 
@@ -2243,6 +2250,13 @@ An object is historic if it has the legendary supertype, the artifact card type,
 如果一个物件具有传奇此超类别、或具有神器此牌张类别、或具有传纪此副类别，它便是史迹。参见规则[[cr:7#cr700-6|700.6]]。
 
 ----
+Hone Counter\\ 
+磨练指示物
+
+A counter on an Equipment that gives the equipped creature +1/+0. See rule 122, “Counters.”\\ 
+武具上的一张指示物，让佩带的生物得+1/+0。参见规则[[cr:1#cr122|122]]，“指示物”。
+
+----
 Horsemanship\\ 
 马术
 
@@ -2590,7 +2604,7 @@ Leaves the Battlefield\\
 离开战场
 
 A permanent “leaves the battlefield” when it’s moved from the battlefield to another zone, or (if it’s phased in) when it leaves the game because its owner leaves the game. See rules 603.6c and 603.10.\\ 
-当一个永久物从战场移到另一个区域时，或（如果它跃回的话）当它因为其拥有者离开游戏而离开游戏时，它“离开战场”。参见规则[[cr:6#cr603-6c|603.6c]]以及[[cr:6#cr603-10|603.10]]。
+当一个永久物从战场移到另一个区域时，或（如果它已跃回的话）当它因为其拥有者离开游戏而离开游戏时，它“离开战场”。参见规则[[cr:6#cr603-6c|603.6c]]以及[[cr:6#cr603-10|603.10]]。
 
 ----
 Legal Text\\ 
@@ -3711,8 +3725,8 @@ To give an additional counter to any number of players and/or permanents of each
 Protect, Protector\\ 
 防卫，防卫者
 
-Each battle has a player designated as its protector, and that player protects that battle. See rule 310.8.\\ 
-每个战役都需要指定一位牌手作为防卫者，该牌手防卫该战役。参见规则[[cr:3#cr310-8|310.8]]。
+Each battle has a player designated as its protector, and that player protects that battle. See rule 310.9.\\ 
+每个战役都需要指定一位牌手作为防卫者，该牌手防卫该战役。参见规则[[cr:3#cr310-9|310.9]]。
 
 ----
 Protection\\ 
@@ -3826,6 +3840,13 @@ Recover\\
 
 A keyword ability that lets a player return a card from their graveyard to their hand. See rule 702.59, “Recover.”\\ 
 一个关键字异能，让牌手将某牌从其坟墓场中移回其手上。参见规则[[cr:7#cr702-59|702.59]]，“复还”。
+
+----
+Recruit\\ 
+募兵
+
+A keyword action that lets a player draw a card, discard a card, and then create a creature token if a nonland card was discarded. See rule 701.70, “Recruit.”\\ 
+一个关键字动作，让牌手抓一张牌，弃一张牌，如果弃的牌是非地牌则派出一个衍生生物。参见规则[[cr:7#cr701-70|701.70]]，“募兵”。
 
 ----
 Redirect (Obsolete)\\ 
@@ -4171,8 +4192,8 @@ Extra cards that may be used to modify a deck between games of a match. See rule
 Siege\\ 
 围攻
 
-A battle subtype. Only an opponent of a Siege’s controller can be its protector. When the last defense counter is removed, its controller exiles the Siege, then they may cast it transformed without paying its mana cost. See rule 310.11.\\ 
-一种战役类别。只有围攻的操控者之对手可以作为其防卫者。当移去最后一个布防指示物时，其操控者将它放逐，然后可以施放已转化的此牌，且不需支付其法术力费用。参见规则[[cr:3#cr310-11|310.11]]。
+A battle subtype. Only an opponent of a Siege’s controller can be its protector. When the last defense counter is removed, its controller exiles the Siege, then they may cast it transformed without paying its mana cost. See rule 310.12.\\ 
+一种战役类别。只有围攻的操控者之对手可以作为其防卫者。当移去最后一个布防指示物时，其操控者将它放逐，然后可以施放已转化的此牌，且不需支付其法术力费用。参见规则[[cr:3#cr310-12|310.12]]。
 
 ----
 Silver-Bordered\\ 
@@ -4484,6 +4505,13 @@ Sticker Sheet\\
 
 The collection of stickers found on an insert in Unfinity booster packs. See rule 123, “Stickers.”\\ 
 贴纸的集合，能够在Unfinity系列补充包的贴纸页上找到。参见规则[[cr:1#cr123|123]]，“贴纸”。
+
+----
+Storied\\ 
+立传
+
+A keyword causing a player to get the enduring story designation once they control three or more permanents that are artifacts, Sagas, and/or legendary. See rule 702.195, “Storied.”\\ 
+一个关键字，在牌手操控三个或更多为传奇、传纪和／或神器的永久物后使牌手得到“历世书传”之称号。参见规则[[cr:7#cr702-195|702.195]]，“立传”。
 
 ----
 Storm\\ 

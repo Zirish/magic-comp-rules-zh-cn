@@ -514,13 +514,13 @@ An ability of a plane card that triggers “Whenever chaos ensues” in the Plan
 The chaos symbol appears on the planar die and near some triggered abilities of plane cards in the Planechase casual variant. See rule 107.12.
 
 ----
-### <span id='Characteristic-Defining Ability'>Characteristic-Defining Ability</span> / <span id='特征'>特征</span>
-定义一个物件的信息。参见规则[109.3](/cr/1/#cr109-3)。   
+### <span id='Characteristic-Defining Ability'>Characteristic-Defining Ability</span> / <span id='特征定义异能'>特征定义异能</span>
+一种静止式异能，包含物件一般情况下在该物件其他部分才能找到的特征信息（比如法术力费用，类别栏，或力量/防御力框）。参见规则[604.3](/cr/6/#cr604-3)。   
 A kind of static ability that conveys information about an object’s characteristics that would normally be found elsewhere on that object (such as in its mana cost, type line, or power/toughness box). See rule 604.3.
 
 ----
-### <span id='Characteristics'>Characteristics</span> / <span id='特征定义异能'>特征定义异能</span>
-一种静止式异能，包含物件一般情况下在该物件其他部分才能找到的特征信息（比如法术力费用，类别栏，或力量/防御力框）。参见规则[604.3](/cr/6/#cr604-3)。   
+### <span id='Characteristics'>Characteristics</span> / <span id='特征'>特征</span>
+定义一个物件的信息。参见规则[109.3](/cr/1/#cr109-3)。   
 Information that defines an object. See rule 109.3.
 
 ----
@@ -1156,6 +1156,11 @@ Part of the turn. This phase is the fifth and final phase of the turn. See rule 
 A keyword ability that lets you choose put +1/+1 counters on a creature or create a Spirit creature token. See rule 702.62, “Endure.”
 
 ----
+### <span id='Enduring Story'>Enduring Story</span> / <span id='历世书传'>历世书传</span>
+一个牌手可得到的称号。立传此关键字使牌手一旦操控三个或更多为传奇、传纪和／或神器的永久物便得到此称号。参见规则[702.195](/cr/7/#cr702-195)，“立传”。   
+A designation a player can have. The storied keyword causes a player to get this designation once they control three permanents that are artifacts, Sagas, and/or legendary. See rule 702.195, “Storied.”
+
+----
 ### <span id='Energy Symbol'>Energy Symbol</span> / <span id='能量符号'>能量符号</span>
 能量符号{E}代表一个能量指示物。要支付{E}，牌手从其自身移除一个能量指示物。   
 The energy symbol {E} represents one energy counter. To pay {E}, a player removes one energy counter from themselves.
@@ -1630,6 +1635,11 @@ A keyword ability that lets a player store a secret card. See rule 702.75, “Hi
 An object is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. See rule 700.6.
 
 ----
+### <span id='Hone Counter'>Hone Counter</span> / <span id='磨练指示物'>磨练指示物</span>
+武具上的一张指示物，让佩带的生物得+1/+0。参见规则[122](/cr/1/#cr122)，“指示物”。   
+A counter on an Equipment that gives the equipped creature +1/+0. See rule 122, “Counters.”
+
+----
 ### <span id='Horsemanship'>Horsemanship</span> / <span id='马术'>马术</span>
 一个关键字异能，限制生物如何阻挡。参见规则[702.31](/cr/7/#cr702-31)，“马术”。   
 A keyword ability that restricts how a creature may be blocked. See rule 702.31, “Horsemanship.”
@@ -1878,7 +1888,7 @@ A keyword action that lets a player add a Lesson card to their hand from outside
 
 ----
 ### <span id='Leaves the Battlefield'>Leaves the Battlefield</span> / <span id='离开战场'>离开战场</span>
-当一个永久物从战场移到另一个区域时，或（如果它跃回的话）当它因为其拥有者离开游戏而离开游戏时，它“离开战场”。参见规则[603.6c](/cr/6/#cr603-6c)以及[603.10](/cr/6/#cr603-10)。   
+当一个永久物从战场移到另一个区域时，或（如果它已跃回的话）当它因为其拥有者离开游戏而离开游戏时，它“离开战场”。参见规则[603.6c](/cr/6/#cr603-6c)以及[603.10](/cr/6/#cr603-10)。   
 A permanent “leaves the battlefield” when it’s moved from the battlefield to another zone, or (if it’s phased in) when it leaves the game because its owner leaves the game. See rules 603.6c and 603.10.
 
 ----
@@ -2690,8 +2700,8 @@ To give an additional counter to any number of players and/or permanents of each
 
 ----
 ### <span id='Protect, Protector'>Protect, Protector</span> / <span id='防卫，防卫者'>防卫，防卫者</span>
-每个战役都需要指定一位牌手作为防卫者，该牌手防卫该战役。参见规则[310.8](/cr/3/#cr310-8)。   
-Each battle has a player designated as its protector, and that player protects that battle. See rule 310.8.
+每个战役都需要指定一位牌手作为防卫者，该牌手防卫该战役。参见规则[310.9](/cr/3/#cr310-9)。   
+Each battle has a player designated as its protector, and that player protects that battle. See rule 310.9.
 
 ----
 ### <span id='Protection'>Protection</span> / <span id='保护'>保护</span>
@@ -2773,6 +2783,11 @@ A keyword ability that allows an Equipment creature to temporarily stop being a 
 ### <span id='Recover'>Recover</span> / <span id='复还'>复还</span>
 一个关键字异能，让牌手将某牌从其坟墓场中移回其手上。参见规则[702.59](/cr/7/#cr702-59)，“复还”。   
 A keyword ability that lets a player return a card from their graveyard to their hand. See rule 702.59, “Recover.”
+
+----
+### <span id='Recruit'>Recruit</span> / <span id='募兵'>募兵</span>
+一个关键字动作，让牌手抓一张牌，弃一张牌，如果弃的牌是非地牌则派出一个衍生生物。参见规则[701.70](/cr/7/#cr701-70)，“募兵”。   
+A keyword action that lets a player draw a card, discard a card, and then create a creature token if a nonland card was discarded. See rule 701.70, “Recruit.”
 
 ----
 ### <span id='Redirect (Obsolete)'>Redirect (Obsolete)</span> / <span id='转移（已废止）'>转移（已废止）</span>
@@ -3020,8 +3035,8 @@ Extra cards that may be used to modify a deck between games of a match. See rule
 
 ----
 ### <span id='Siege'>Siege</span> / <span id='围攻'>围攻</span>
-一种战役类别。只有围攻的操控者之对手可以作为其防卫者。当移去最后一个布防指示物时，其操控者将它放逐，然后可以施放已转化的此牌，且不需支付其法术力费用。参见规则[310.11](/cr/3/#cr310-11)。   
-A battle subtype. Only an opponent of a Siege’s controller can be its protector. When the last defense counter is removed, its controller exiles the Siege, then they may cast it transformed without paying its mana cost. See rule 310.11.
+一种战役类别。只有围攻的操控者之对手可以作为其防卫者。当移去最后一个布防指示物时，其操控者将它放逐，然后可以施放已转化的此牌，且不需支付其法术力费用。参见规则[310.12](/cr/3/#cr310-12)。   
+A battle subtype. Only an opponent of a Siege’s controller can be its protector. When the last defense counter is removed, its controller exiles the Siege, then they may cast it transformed without paying its mana cost. See rule 310.12.
 
 ----
 ### <span id='Silver-Bordered'>Silver-Bordered</span> / <span id='银边'>银边</span>
@@ -3245,6 +3260,11 @@ A kicker variant that can add a sticker to the spell with the ability and give a
 ### <span id='Sticker Sheet'>Sticker Sheet</span> / <span id='贴纸卡'>贴纸卡</span>
 贴纸的集合，能够在Unfinity系列补充包的贴纸页上找到。参见规则[123](/cr/1/#cr123)，“贴纸”。   
 The collection of stickers found on an insert in Unfinity booster packs. See rule 123, “Stickers.”
+
+----
+### <span id='Storied'>Storied</span> / <span id='立传'>立传</span>
+一个关键字，在牌手操控三个或更多为传奇、传纪和／或神器的永久物后使牌手得到“历世书传”之称号。参见规则[702.195](/cr/7/#cr702-195)，“立传”。   
+A keyword causing a player to get the enduring story designation once they control three or more permanents that are artifacts, Sagas, and/or legendary. See rule 702.195, “Storied.”
 
 ----
 ### <span id='Storm'>Storm</span> / <span id='风暴'>风暴</span>

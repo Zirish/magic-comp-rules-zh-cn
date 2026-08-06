@@ -183,7 +183,7 @@ Example: In the same game, Rob is sitting to the right of Alex. Coat of Arms wil
 801.12. 只有当其操控者影响范围内有其他普世永久物时，“普世规则”（参见规则[[cr:7#cr704-5k|704.5k]]）才会对一个永久物生效。
 
 <BOOKMARK:cr801-13>801.13. Replacement and prevention effects watch for a particular event to happen and then completely or partially replace that event. The limited range of influence option can cause the modified event to contain instructions that can’t be carried out, in which case the player simply ignores the impossible instructions. See rule 614, “Replacement Effects,” and rule 615, “Prevention Effects.”\\ 
-801.13. 替代性及防止性效应会监视特定事件，并在其发生时完全或部分地替代该效应。限制影响范围的模式可能使改动后的事件包含无法实现的指示。在此情形下，牌手忽视此不能实现的指示。参见规则[[cr:6#cr614|614]]，“替代性效应”和规则[[cr:6#cr615|615]]，“防止性效应”。
+801.13. 替代性及防止性效应会监视特定事件，并在其发生时完全或部分地替代该效应。限制影响范围的模式可能使改动后的事件包含无法实现的指示。在此情形下，牌手忽略此不能实现的指示。参见规则[[cr:6#cr614|614]]，“替代性效应”和规则[[cr:6#cr615|615]]，“防止性效应”。
 
 <BOOKMARK:cr801-13a>801.13a If a replacement effect tries to cause a spell or ability to affect an object or player outside its controller’s range of influence, that portion of the event does nothing.\\ 
 801.13a 如果一个替代性效应试图使一个咒语或异能影响其操控者影响范围以外的物件或牌手，则该部分事件无效。

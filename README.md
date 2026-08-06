@@ -11,7 +11,7 @@
 
 您可以在[裁判Wiki](https://wiki.mtgjudge.cn/)或是[大学院废墟](https://lib.sbwsz.com/cr)查看CR最新译本。
 
-本译文最近一次更新于：2026年6月19日，*漫威超级英雄*系列。
+本译文最近一次更新于：2026年8月7日，*霍比特人*系列。
 
 ## 常见问题集 / 发布释疑
 
@@ -24,7 +24,7 @@
 | 年度 | 系列1 | 系列2 | 系列3 | 系列4 |
 |------|---|---|---|---|
 | 2026 上半年 | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/ecl.svg' width='14' height='14' />[洛温：暗影笼罩](release_notes/faq_ecl.pdf) | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/tmt.svg' width='14' height='14' />[忍者神龟](https://mtgch.com/articles/official/teenage-mutant-ninja-turtles-release-notes/) | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/sos.svg' width='14' height='14' />[斯翠海文的秘密](https://mtgch.com/articles/official/secrets-of-strixhaven-release-notes/) | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/msh.svg' width='14' height='14' />漫威超级英雄 |
-| 2026 下半年 | 霍比特人 | 现实裂界 | 星际迷航 | |
+| 2026 下半年 | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/hob.svg' width='14' height='14' />[霍比特人](https://mtgch.com/articles/official/the-hobbit-release-notes/) | 现实裂界 | 星际迷航 | |
 
 | 年度 | 系列1 | 系列2 | 系列3 |
 |------|---|---|---|
@@ -62,6 +62,16 @@
 
 
 ## 内容更新
+
+### 20260817
+
+- *霍比特人*
+    - 122.1j：为磨练指示物增加了规则含义。
+    - 310.8/9a/11/12、506.4、704.5x/y：战役的部分运作规则得到了补充，看起来像是给新的战役副类别铺路。
+    - 605.1a：法术力异能的定义得到了更新，现在还需要费用和效应不会使牌移入或移出牌库才能被称为法术力异能。（复还探险家塞瓦拉。再见了，跨冰河塞瓦拉）
+    - 701.70：新的关键字动作：募兵。
+    - 702.195：新的关键字异能：立传。
+    - 新词汇表条目：历世书传、磨练指示物、募兵、立传。
 
 ### 20260619
 

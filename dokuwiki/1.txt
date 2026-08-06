@@ -702,13 +702,13 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 110.4c 如果一个永久物因为某些原因失去其所有永久物类别，它将依然留在战场上。它依然是永久物。
 
 <BOOKMARK:cr110-5>110.5. A permanent’s status is its physical state. There are four status categories, each of which has two possible values: tapped/untapped, flipped/unflipped, face up/face down, and phased in/phased out. Each permanent always has one of these values for each of these categories.\\ 
-110.5. 永久物的状态是它的物理状况。状态包括四类，每一类都有两种可能的情况：横置/未横置、倒转/未倒转、牌面朝下/牌面朝上以及跃回/跃离。每个永久物的每类状态总会属于这些情况之一。
+110.5. 永久物的状态是它的物理状况。状态包括四类，每一类都有两种可能的情况：已横置/未横置、已倒转/未倒转、牌面朝下/牌面朝上以及已跃回/已跃离。每个永久物的每类状态总会属于这些情况之一。
 
 <BOOKMARK:cr110-5a>110.5a Status is not a characteristic, though it may affect a permanent’s characteristics.\\ 
 110.5a 状态不是特征，但它有可能影响一个永久物的特征。
 
 <BOOKMARK:cr110-5b>110.5b Permanents enter the battlefield untapped, unflipped, face up, and phased in unless a spell or ability says otherwise.\\ 
-110.5b 除非有咒语或异能特别说明，否则永久物进战场时皆为未横置、未倒转、牌面朝上且跃回。
+110.5b 除非有咒语或异能特别说明，否则永久物进战场时皆为未横置、未倒转、牌面朝上且已跃回。
 
 <BOOKMARK:cr110-5c>110.5c A permanent retains its status until a spell, ability, or turn-based action changes it, even if that status is not relevant to it.\\ 
 110.5c 永久物会一直维持其状态，直到一个咒语、异能或回合动作将之改变，即使该状态与其无关。
@@ -1591,6 +1591,9 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 
 <BOOKMARK:cr122-1i>122.1i One or more rad counters on a player cause a triggered ability to trigger at the beginning of that player’s precombat main phase. See rule 728, “Rad Counters.”\\ 
 122.1i 牌手具有的一个或数个拉德指示物会导致在该牌手战斗前行动阶段开始时触发一个触发式异能。参见规则[[cr:7#cr728|728]]，“拉德指示物”。
+
+<BOOKMARK:cr122-1j>122.1j A hone counter on an Equipment gives +1/+0 to any creature that Equipment is attached to.\\ 
+122.1j 一个武具上的磨练指示物会使该武具所贴附的任何生物得+1/+0。
 
 <BOOKMARK:cr122-2>122.2. Counters on an object are not retained if that object moves from one zone to another. The counters are not “removed”; they simply cease to exist. See rule 400.7.\\ 
 122.2. 若物件从一个区域移动到另一个区域，物件上的指示物不会保留。这些指示物并非“被移除”；它们只是不再存在。参见规则[[cr:4#cr400-7|400.7]]。
